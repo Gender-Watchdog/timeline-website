@@ -3,11 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Dongguk Exposed: Sexual Violence Timeline</title>
-  <meta name="description" content="Comprehensive timeline documenting Dongguk University's decade of sexual violence cases, institutional negligence, and alleged public funds fraud (2008-2025). Evidence-based documentation of systemic failures in addressing sexual violence prevention.">
-  <meta name="keywords" content="Dongguk University, sexual violence cases, sexual violence prevention, institutional negligence, university accountability, Korea sexual assault, Title IX violations, campus safety, university fraud allegations">
-  <meta property="og:title" content="Dongguk Exposed: Sexual Violence Timeline">
-  <meta property="og:description" content="Comprehensive timeline documenting Dongguk University's decade of sexual violence cases, institutional negligence, and alleged public funds fraud (2008-2025). Evidence-based documentation of systemic failures in addressing sexual violence prevention.">
+  <title>Dongguk Exposed: Racialized Sexual Violence Timeline</title>
+  <meta name="description" content="Comprehensive timeline documenting Dongguk University's decade of racialized sexual violence cases, institutional negligence, and alleged public funds fraud (2008-2025). Evidence-based documentation of systemic failures in addressing racialized sexual violence prevention.">
+  <meta name="keywords" content="Dongguk University, racialized sexual violence cases, racialized sexual violence prevention, institutional negligence, university accountability, Korea sexual assault, Title IX violations, campus safety, university fraud allegations, racism in higher education">
+  <meta property="og:title" content="Dongguk Exposed: Racialized Sexual Violence Timeline">
+  <meta property="og:description" content="Comprehensive timeline documenting Dongguk University's decade of racialized sexual violence cases, institutional negligence, and alleged public funds fraud (2008-2025). Evidence-based documentation of systemic failures in addressing racialized sexual violence prevention.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://genderwatchdog1.github.io/timeline-website/index.html">
   <link rel="canonical" href="https://genderwatchdog1.github.io/timeline-website/index.html">
@@ -55,7 +55,7 @@
   <!-- Main Content -->
   <div class="content">
     <div class="container py-4">
-      <h1 class="text-center">Dongguk University: A Timeline of Sexual Violence, Institutional Betrayal, and Alleged Public Funds Fraud</h1>
+      <h1 class="text-center">Dongguk University: A Timeline of Racialized Sexual Violence, Institutional Betrayal, and Alleged Public Funds Fraud</h1>
       <h2 class="subtitle text-center mb-4">Documenting a decade of institutional failure and negligence (2008-2025)</h2>
     
       <div class="d-flex justify-content-center flex-wrap mb-4">
@@ -512,5 +512,20 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
   <script src="js/timeline.js"></script>
   <script src="js/structured-data.js"></script>
+  
+  <!-- JSON-LD loader for SEO structured data -->
+  <script>
+    fetch('structured_data/index.json')
+      .then(response => response.json())
+      .then(data => {
+        const script = document.createElement('script');
+        script.type = 'application/ld+json';
+        script.text = JSON.stringify(data);
+        document.head.appendChild(script);
+      })
+      .catch(error => {
+        console.log('Structured data not loaded:', error);
+      });
+  </script>
 </body>
 </html>

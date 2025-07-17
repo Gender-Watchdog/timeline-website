@@ -3,11 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>동국대학교의 진실: 10년간의 성폭력 위기</title>
-  <meta name="description" content="동국대학교의 10년간 성폭력 사건, 제도적 방치, 공적 자금 사기 의혹에 대한 포괄적인 타임라인(2008-2025). 성폭력 방지에 관한 조직적 실패의 증거 기반 기록.">
-  <meta name="keywords" content="동국대학교, 성폭력 사건, 성폭력 방지, 제도적 방치, 대학 책임성, 한국 성폭력, 타이틀 IX 위반, 캠퍼스 성폭력 방지, 대학 사기 의혹">
-  <meta property="og:title" content="동국대학교의 진실: 10년간의 성폭력 위기">
-  <meta property="og:description" content="동국대학교의 10년간 성폭력 사건, 제도적 방치, 공적 자금 사기 의혹에 대한 포괄적인 타임라인(2008-2025). 성폭력 방지에 관한 조직적 실패의 증거 기반 기록.">
+  <title>동국대학교의 진실: 10년간의 인종화된 성폭력 위기</title>
+  <meta name="description" content="동국대학교의 10년간 인종화된 성폭력 사건, 제도적 방치, 공적 자금 사기 의혹에 대한 포괄적인 타임라인(2008-2025). 인종화된 성폭력 방지에 관한 조직적 실패의 증거 기반 기록.">
+  <meta name="keywords" content="동국대학교, 인종화된 성폭력 사건, 인종화된 성폭력 방지, 제도적 방치, 대학 책임성, 한국 성폭력, 타이틀 IX 위반, 캠퍼스 성폭력 방지, 대학 사기 의혹, 고등교육 인종차별">
+  <meta property="og:title" content="동국대학교의 진실: 10년간의 인종화된 성폭력 위기">
+  <meta property="og:description" content="동국대학교의 10년간 인종화된 성폭력 사건, 제도적 방치, 공적 자금 사기 의혹에 대한 포괄적인 타임라인(2008-2025). 인종화된 성폭력 방지에 관한 조직적 실패의 증거 기반 기록.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://genderwatchdog1.github.io/timeline-website/timeline_ko.html">
   <link rel="canonical" href="https://genderwatchdog1.github.io/timeline-website/timeline_ko.html">
@@ -55,7 +55,7 @@
   <!-- Main Content -->
   <div class="content">
     <div class="container py-4">
-      <h1 class="text-center">동국대학교: 성폭력, 제도적 배신, 그리고 공적 자금 사기 의혹의 타임라인</h1>
+      <h1 class="text-center">동국대학교: 인종화된 성폭력, 제도적 배신, 그리고 공적 자금 사기 의혹의 타임라인</h1>
       <h2 class="subtitle text-center mb-4">기관 실패와 무관심의 10년을 기록 (2008-2025)</h2>
     
       <div class="d-flex justify-content-center flex-wrap mb-4">
@@ -512,5 +512,20 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
   <script src="js/timeline.js"></script>
   <script src="js/structured-data.js"></script>
+  
+  <!-- JSON-LD loader for SEO structured data -->
+  <script>
+    fetch('structured_data/timeline_ko.json')
+      .then(response => response.json())
+      .then(data => {
+        const script = document.createElement('script');
+        script.type = 'application/ld+json';
+        script.text = JSON.stringify(data);
+        document.head.appendChild(script);
+      })
+      .catch(error => {
+        console.log('Structured data not loaded:', error);
+      });
+  </script>
 </body>
 </html> 
