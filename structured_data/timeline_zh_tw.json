@@ -24,8 +24,8 @@
           "startDate": "2008",
           "description": "涉及機構虛假陳述的重大醜聞。該大學利用美國法律而忽視其價值觀。",
           "location": {
-            "@type": "Organization",
-            "name": "東國大學"
+            "@type": "Place",
+            "name": "東國大學（首爾，韓國）"
           },
           "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/zh_tw/shingate.html"
         },
@@ -35,8 +35,8 @@
           "startDate": "2015-11",
           "description": "教授在飲酒聚會期間對東國大學研究生實施性暴力。",
           "location": {
-            "@type": "Organization",
-            "name": "東國大學"
+            "@type": "Place",
+            "name": "東國大學（首爾，韓國）"
           },
           "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/zh_tw/2016_dongguk_prof_sexual_assault.html",
           "keywords": "性暴力, 教授不當行為, 種族化性暴力"
@@ -47,8 +47,8 @@
           "startDate": "2016-02",
           "description": "東國大學媒體傳播專業教授因對女研究生實施性暴力被起訴。大學顯示延遲回應和被動處理方式。",
           "location": {
-            "@type": "Organization",
-            "name": "東國大學"
+            "@type": "Place",
+            "name": "東國大學（首爾，韓國）"
           },
           "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/zh_tw/2016_dongguk_prof_sexual_assault.html",
           "keywords": "性暴力起訴, 制度性疏忽"
@@ -59,8 +59,8 @@
           "startDate": "2016-08",
           "description": "東國大學引入條款，允許受到言語虐待或性暴力的學生申請更換教授。",
           "location": {
-            "@type": "Organization",
-            "name": "東國大學"
+            "@type": "Place",
+            "name": "東國大學（首爾，韓國）"
           },
           "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/zh_tw/dongguk_exposed_2016_2025.html#1-2016-professor-replacement-policy",
           "keywords": "政策改革, 性暴力防治"
@@ -71,8 +71,8 @@
           "startDate": "2018",
           "description": "在MeToo運動達到高潮時，東國大學解散了女學生會這一重要女性倡導團體。",
           "location": {
-            "@type": "Organization",
-            "name": "東國大學"
+            "@type": "Place",
+            "name": "東國大學（首爾，韓國）"
           },
           "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/zh_tw/dongguk_exposed_2016_2025.html#2-2018-metoo-movement-abolition-of-the-womens-student-council",
           "keywords": "制度性倒退, 女性倡議消除"
@@ -83,7 +83,7 @@
           "startDate": "2020",
           "description": "韓國女性發展研究院發布關於藝術教育項目中性暴力的全面報告，強調包括東國大學在內的系統性問題。",
           "location": {
-            "@type": "Country",
+            "@type": "Place",
             "name": "韓國"
           },
           "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/zh_tw/kwdi_infographics.html",
@@ -96,8 +96,8 @@
           "endDate": "2025-03-09",
           "description": "關於性暴力問題的初始電子郵件發送給東國大學但未收到回應，開始機構沉默模式。",
           "location": {
-            "@type": "Organization",
-            "name": "東國大學"
+            "@type": "Place",
+            "name": "東國大學（首爾，韓國）"
           },
           "keywords": "倡議聯繫, 制度性沉默"
         },
@@ -108,8 +108,8 @@
           "endDate": "2025-03-15",
           "description": "聯繫東國大學數位內容與媒體研究生院所有教授，但完全沒有回應，顯示集體性機構沉默。",
           "location": {
-            "@type": "Organization",
-            "name": "東國大學"
+            "@type": "Place",
+            "name": "東國大學（首爾，韓國）"
           },
           "keywords": "教授聯繫, 集體沉默"
         },
@@ -179,7 +179,7 @@
           "startDate": "2025-05-04",
           "description": "收到合作關係詐欺證據後，七個韓國政府機構完全沉默25天，直接強化了助長種族化性暴力的結構性條件。",
           "location": {
-            "@type": "Country",
+            "@type": "Place",
             "name": "韓國"
           },
           "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/zh_tw/05102025_korean_govt_slow.html",

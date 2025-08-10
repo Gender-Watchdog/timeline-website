@@ -25,8 +25,8 @@
           "startDate": "2008",
           "description": "組織的虚偽申告を含む主要なスキャンダル。大学は米国法を活用する一方で、その価値を無視した。",
           "location": {
-            "@type": "Organization",
-            "name": "東国大学"
+            "@type": "Place",
+            "name": "東国大学（ソウル、韓国）"
           },
           "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/ja/shingate.html"
         },
@@ -36,8 +36,8 @@
           "startDate": "2015-11",
           "description": "教授が東国大学の大学院生に対して飲み会の席で性暴力を働く。",
           "location": {
-            "@type": "Organization",
-            "name": "東国大学"
+            "@type": "Place",
+            "name": "東国大学（ソウル、韓国）"
           },
           "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/ja/2016_dongguk_prof_sexual_assault.html",
           "keywords": "性暴力, 教授の不祥事, 人種化された性暴力"
@@ -48,8 +48,8 @@
           "startDate": "2016-02",
           "description": "東国大学のメディア・コミュニケーション専攻の教授が大学院生への性暴力で起訴。大学は遅延した対応と反応的アプローチを示した。",
           "location": {
-            "@type": "Organization",
-            "name": "東国大学"
+            "@type": "Place",
+            "name": "東国大学（ソウル、韓国）"
           },
           "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/ja/2016_dongguk_prof_sexual_assault.html",
           "keywords": "性暴力起訴, 制度的怠慢"
@@ -60,8 +60,8 @@
           "startDate": "2016-08",
           "description": "東国大学が言語的虐待または性暴力を受けた学生に教授の交代を申請できる条項を導入。",
           "location": {
-            "@type": "Organization",
-            "name": "東国大学"
+            "@type": "Place",
+            "name": "東国大学（ソウル、韓国）"
           },
           "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/ja/dongguk_exposed_2016_2025.html#1-2016-professor-replacement-policy",
           "keywords": "政策改革, 性暴力防止"
@@ -72,8 +72,8 @@
           "startDate": "2018",
           "description": "MeToo運動が最高潮に達した時、東国大学は重要な女性擁護団体であった女性学生会を廃止。",
           "location": {
-            "@type": "Organization",
-            "name": "東国大学"
+            "@type": "Place",
+            "name": "東国大学（ソウル、韓国）"
           },
           "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/ja/dongguk_exposed_2016_2025.html#2-2018-metoo-movement-abolition-of-the-womens-student-council",
           "keywords": "制度的後退, 女性擁護の排除"
@@ -84,7 +84,7 @@
           "startDate": "2020",
           "description": "韓国女性政策研究院がMeToo運動後の芸術教育プログラムにおける性暴力に関する包括的報告書を発表、東国大学を含む組織的問題を強調。",
           "location": {
-            "@type": "Country",
+            "@type": "Place",
             "name": "韓国"
           },
           "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/ja/kwdi_infographics.html",
@@ -97,8 +97,8 @@
           "endDate": "2025-03-09",
           "description": "性暴力に関する懸念についての初期メールが東国大学に送られたが返答なし、制度的沈黙のパターンが始まる。",
           "location": {
-            "@type": "Organization",
-            "name": "東国大学"
+            "@type": "Place",
+            "name": "東国大学（ソウル、韓国）"
           },
           "keywords": "支援活動の連絡, 制度的沈黙"
         },
@@ -109,8 +109,8 @@
           "endDate": "2025-03-15",
           "description": "東国大学デジタルコンテンツ・メディア大学院の全教授陣に連絡したが返答なし、集団的な制度的沈黙を示す。",
           "location": {
-            "@type": "Organization",
-            "name": "東国大学"
+            "@type": "Place",
+            "name": "東国大学（ソウル、韓国）"
           },
           "keywords": "教員への連絡, 集団的沈黙"
         },
@@ -180,7 +180,7 @@
           "startDate": "2025-05-04",
           "description": "7つの韓国政府機関がパートナーシップ詐欺の証拠を受け取って以降25日間完全な沈黙、人種化された性暴力を可能にする構造的条件を直接強化。",
           "location": {
-            "@type": "Country",
+            "@type": "Place",
             "name": "韓国"
           },
           "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/ja/05102025_korean_govt_slow.html",

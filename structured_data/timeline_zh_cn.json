@@ -25,8 +25,8 @@
           "startDate": "2008",
           "description": "涉及机构虚假陈述的重大丑闻。该大学利用美国法律而忽视其价值观。",
           "location": {
-            "@type": "Organization",
-            "name": "东国大学"
+            "@type": "Place",
+            "name": "东国大学（韩国首尔）"
           },
           "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/zh_ch/shingate.html"
         },
@@ -36,8 +36,8 @@
           "startDate": "2015-11",
           "description": "教授在饮酒聚会期间对东国大学研究生实施性侵。",
           "location": {
-            "@type": "Organization",
-            "name": "东国大学"
+            "@type": "Place",
+            "name": "东国大学（韩国首尔）"
           },
           "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/zh_ch/2016_dongguk_prof_sexual_assault.html",
           "keywords": "性侵, 教授不当行为, 种族化性暴力"
@@ -48,8 +48,8 @@
           "startDate": "2016-02",
           "description": "东国大学媒体传播专业教授因对研究生性侵而被起诉。大学显示出延迟回应和被动处理方式。",
           "location": {
-            "@type": "Organization",
-            "name": "东国大学"
+            "@type": "Place",
+            "name": "东国大学（韩国首尔）"
           },
           "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/zh_ch/2016_dongguk_prof_sexual_assault.html",
           "keywords": "性侵起诉, 制度性疏忽"
@@ -60,8 +60,8 @@
           "startDate": "2016-08",
           "description": "东国大学引入条款，允许受到言语虐待或性暴力的学生申请更换教授。",
           "location": {
-            "@type": "Organization",
-            "name": "东国大学"
+            "@type": "Place",
+            "name": "东国大学（韩国首尔）"
           },
           "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/zh_ch/dongguk_exposed_2016_2025.html#1-2016年教授替换政策与性暴力案件",
           "keywords": "政策改革, 性暴力预防"
@@ -72,8 +72,8 @@
           "startDate": "2018",
           "description": "在MeToo运动高潮时，东国大学解散了女学生会，这一重要的女性倡导团体。",
           "location": {
-            "@type": "Organization",
-            "name": "东国大学"
+            "@type": "Place",
+            "name": "东国大学（韩国首尔）"
           },
           "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/zh_ch/dongguk_exposed_2016_2025.html#2-2018年-metoo运动与女学生会的废除",
           "keywords": "制度倒退, 女性倡导组织消除"
@@ -84,7 +84,7 @@
           "startDate": "2020",
           "description": "韩国女性发展研究院发布关于艺术教育项目性暴力的全面报告，强调包括东国大学在内的系统性问题。",
           "location": {
-            "@type": "Country",
+            "@type": "Place",
             "name": "韩国"
           },
           "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/zh_ch/kwdi_infographics.html",
@@ -97,8 +97,8 @@
           "endDate": "2025-03-09",
           "description": "向东国大学发送关于性暴力关切的初始电子邮件，无回应，开始了制度性沉默的模式。",
           "location": {
-            "@type": "Organization",
-            "name": "东国大学"
+            "@type": "Place",
+            "name": "东国大学（韩国首尔）"
           },
           "keywords": "倡导联系, 制度性沉默"
         },
@@ -109,8 +109,8 @@
           "endDate": "2025-03-15",
           "description": "联系东国大学数字内容与媒体研究生院的所有教职员，无任何回应，显示集体性制度沉默。",
           "location": {
-            "@type": "Organization",
-            "name": "东国大学"
+            "@type": "Place",
+            "name": "东国大学（韩国首尔）"
           },
           "keywords": "教职员联系, 集体沉默"
         },
@@ -180,7 +180,7 @@
           "startDate": "2025-05-04",
           "description": "七个韩国政府机构在收到合作关系欺诈证据后完全沉默25天，直接强化了催生种族化性暴力的结构性条件。",
           "location": {
-            "@type": "Country",
+            "@type": "Place",
             "name": "韩国"
           },
           "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/zh_ch/05102025_korean_govt_slow.html",

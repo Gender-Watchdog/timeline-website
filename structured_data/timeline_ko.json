@@ -24,8 +24,8 @@
           "startDate": "2008",
           "description": "기관의 허위진술과 관련된 주요 스캔들. 대학은 미국법을 활용하면서도 그 가치를 무시했습니다.",
           "location": {
-            "@type": "Organization",
-            "name": "동국대학교"
+            "@type": "Place",
+            "name": "동국대학교(서울, 대한민국)"
           },
           "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/ko/shingate.html"
         },
@@ -35,8 +35,8 @@
           "startDate": "2015-11",
           "description": "교수가 술자리에서 동국대학교 대학원생을 성폭행했습니다.",
           "location": {
-            "@type": "Organization",
-            "name": "동국대학교"
+            "@type": "Place",
+            "name": "동국대학교(서울, 대한민국)"
           },
           "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/ko/2016_dongguk_prof_sexual_assault.html",
           "keywords": "성폭행, 교수 비리, 인종화된 성폭력"
@@ -47,8 +47,8 @@
           "startDate": "2016-02",
           "description": "동국대학교 미디어커뮤니케이션 전공 교수가 대학원생 성폭행으로 기소됨. 대학은 지연된 대응과 반응적 접근법을 보였습니다.",
           "location": {
-            "@type": "Organization",
-            "name": "동국대학교"
+            "@type": "Place",
+            "name": "동국대학교(서울, 대한민국)"
           },
           "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/ko/2016_dongguk_prof_sexual_assault.html",
           "keywords": "성폭력 기소, 제도적 방치"
@@ -59,8 +59,8 @@
           "startDate": "2016-08",
           "description": "동국대학교가 언어적 학대나 성폭력을 경험한 학생들이 교수 변경을 요청할 수 있는 조항을 도입했습니다.",
           "location": {
-            "@type": "Organization",
-            "name": "동국대학교"
+            "@type": "Place",
+            "name": "동국대학교(서울, 대한민국)"
           },
           "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/ko/dongguk_exposed_2016_2025.html#1-2016-professor-replacement-policy",
           "keywords": "정책 개혁, 성폭력 방지"
@@ -71,8 +71,8 @@
           "startDate": "2018",
           "description": "MeToo 운동이 절정에 달했을 때, 동국대학교는 여성들을 위한 중요한 옹호 단체였던 여학생회를 폐지했습니다.",
           "location": {
-            "@type": "Organization",
-            "name": "동국대학교"
+            "@type": "Place",
+            "name": "동국대학교(서울, 대한민국)"
           },
           "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/ko/dongguk_exposed_2016_2025.html#2-2018-metoo-movement-abolition-of-the-womens-student-council",
           "keywords": "제도적 퇴보, 여성 옹호 단체 제거"
@@ -83,7 +83,7 @@
           "startDate": "2020",
           "description": "한국여성정책연구원이 예술 교육 프로그램의 성폭력에 관한 종합 보고서를 발표, 동국대학교를 포함한 구조적 문제를 강조했습니다.",
           "location": {
-            "@type": "Country",
+            "@type": "Place",
             "name": "대한민국"
           },
           "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/ko/kwdi_infographics.html",
@@ -96,8 +96,8 @@
           "endDate": "2025-03-09",
           "description": "성폭력 방지 문제에 관한 초기 이메일이 동국대학교에 발송되었으나 응답이 없어 기관의 침묵 패턴이 시작되었습니다.",
           "location": {
-            "@type": "Organization",
-            "name": "동국대학교"
+            "@type": "Place",
+            "name": "동국대학교(서울, 대한민국)"
           },
           "keywords": "옹호 활동, 기관의 침묵"
         },
@@ -108,8 +108,8 @@
           "endDate": "2025-03-15",
           "description": "동국대학교 디지털 콘텐츠 및 미디어 대학원의 모든 교수진에게 연락했으나 응답이 없어 집단적 기관 침묵을 보여주었습니다.",
           "location": {
-            "@type": "Organization",
-            "name": "동국대학교"
+            "@type": "Place",
+            "name": "동국대학교(서울, 대한민국)"
           },
           "keywords": "교수진 접촉, 집단적 침묵"
         },
@@ -179,7 +179,7 @@
           "startDate": "2025-05-04",
           "description": "7개 한국 정부 기관이 파트너십 사기 증거를 받은 후 25일간 완전히 침묵하여 인종화된 성폭력을 가능하게 하는 구조적 조건을 직접 강화했습니다.",
           "location": {
-            "@type": "Country",
+            "@type": "Place",
             "name": "대한민국"
           },
           "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/ko/05102025_korean_govt_slow.html",
