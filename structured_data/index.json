@@ -4,7 +4,7 @@
     "@type": "WebPage",
     "name": "Dongguk Exposed: Racialized Sexual Violence Timeline",
     "description": "Interactive timeline documenting Dongguk University's decade of racialized sexual violence cases, institutional negligence, and alleged public funds fraud (2008-2025).",
-    "url": "https://genderwatchdog1.github.io/timeline-website/index.html",
+    "url": "https://dongguk.genderwatchdog.org/index.html",
     "datePublished": "2025-04-05T12:00:00+09:00",
     "dateModified": "2025-05-15T12:00:00+09:00",
     "author": {
@@ -27,7 +27,7 @@
             "@type": "Place",
             "name": "Dongguk University, Seoul, South Korea"
           },
-          "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/en/shingate.html"
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/en/shingate.html"
         },
         {
           "@type": "Event",
@@ -38,7 +38,7 @@
             "@type": "Place",
             "name": "Dongguk University, Seoul, South Korea"
           },
-          "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/en/2016_dongguk_prof_sexual_assault.html",
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/en/2016_dongguk_prof_sexual_assault.html",
           "keywords": "sexual assault, professor misconduct, racialized sexual violence"
         },
         {
@@ -50,7 +50,7 @@
             "@type": "Place",
             "name": "Dongguk University, Seoul, South Korea"
           },
-          "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/en/2016_dongguk_prof_sexual_assault.html",
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/en/2016_dongguk_prof_sexual_assault.html",
           "keywords": "sexual assault prosecution, institutional negligence"
         },
         {
@@ -62,7 +62,7 @@
             "@type": "Place",
             "name": "Dongguk University, Seoul, South Korea"
           },
-          "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/en/dongguk_exposed_2016_2025.html#1-2016-professor-replacement-policy",
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/en/dongguk_exposed_2016_2025.html#1-2016-professor-replacement-policy",
           "keywords": "policy reform, sexual violence prevention"
         },
         {
@@ -74,7 +74,7 @@
             "@type": "Place",
             "name": "Dongguk University, Seoul, South Korea"
           },
-          "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/en/dongguk_exposed_2016_2025.html#2-2018-metoo-movement-abolition-of-the-womens-student-council",
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/en/dongguk_exposed_2016_2025.html#2-2018-metoo-movement-abolition-of-the-womens-student-council",
           "keywords": "institutional regression, women's advocacy elimination"
         },
         {
@@ -86,7 +86,7 @@
             "@type": "Place",
             "name": "South Korea"
           },
-          "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/en/kwdi_infographics.html",
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/en/kwdi_infographics.html",
           "keywords": "research documentation, sexual violence statistics"
         },
         {
@@ -122,7 +122,7 @@
             "@type": "Place",
             "name": "Dongguk University, Seoul, South Korea"
           },
-          "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/en/dongguk_exposed_2016_2025.html",
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/en/dongguk_exposed_2016_2025.html",
           "keywords": "investigative documentation, partnership fraud, racialized sexual violence"
         },
         {
@@ -135,7 +135,7 @@
             "@type": "Place",
             "name": "Dongguk University, Seoul, South Korea"
           },
-          "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/en/title_ix_risk_advisory.html",
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/en/title_ix_risk_advisory.html",
           "keywords": "Title IX violations, institutional dismissiveness"
         },
         {
@@ -147,7 +147,7 @@
             "@type": "Place",
             "name": "International"
           },
-          "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/en/fictional_partnerships_title_ix_dongguk.html",
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/en/fictional_partnerships_title_ix_dongguk.html",
           "keywords": "partnership verification, institutional fraud"
         },
         {
@@ -170,7 +170,7 @@
             "@type": "Organization",
             "name": "Dongguk University"
           },
-          "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/en/false_partners_alleged_taxpayer_fraud.html",
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/en/false_partners_alleged_taxpayer_fraud.html",
           "keywords": "taxpayer fraud, false partnerships, institutional deception"
         },
         {
@@ -182,7 +182,7 @@
             "@type": "Place",
             "name": "South Korea"
           },
-          "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/en/05102025_korean_govt_slow.html",
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/en/05102025_korean_govt_slow.html",
           "keywords": "government negligence, systemic enablement"
         },
         {
@@ -194,7 +194,7 @@
             "@type": "Place",
             "name": "South Korea"
           },
-          "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/en/05152025_horizontal_ieqas.html",
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/en/05152025_horizontal_ieqas.html",
           "keywords": "systemic investigation, IEQAS certification, racialized targeting"
         }
       ]
@@ -204,8 +204,8 @@
     "@context": "https://schema.org",
     "@type": "Organization",
     "name": "Gender Watchdog",
-    "url": "https://genderwatchdog1.github.io/timeline-website/",
-    "logo": "https://genderwatchdog1.github.io/timeline-website/imgs/favicons/gender_watchdog_favicon_128x128.png",
+    "url": "https://dongguk.genderwatchdog.org/",
+    "logo": "https://dongguk.genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_128x128.png",
     "description": "Documenting and confronting racialized sexual violence in Korean universities and film industry. Demanding accountability from both academia and industry.",
     "sameAs": [
       "https://x.com/Gender_Watchdog",
@@ -268,7 +268,7 @@
     "@context": "https://schema.org",
     "@type": "WebSite",
     "name": "Dongguk Exposed: Racialized Sexual Violence Timeline",
-    "url": "https://genderwatchdog1.github.io/timeline-website/",
+    "url": "https://dongguk.genderwatchdog.org/",
     "description": "Interactive timeline documenting systematic racialized sexual violence and institutional failures at Korean universities",
     "publisher": {
       "@type": "Organization",

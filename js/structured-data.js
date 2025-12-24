@@ -66,7 +66,7 @@ function injectBlogPostStructuredData(language) {
       "name": "Gender Watchdog",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://genderwatchdog.org/imgs/gender-watchdog-icon-04142025.png"
+        "url": "https://dongguk.genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_128x128.png"
       }
     }
   };
