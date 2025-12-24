@@ -31,6 +31,7 @@ function injectStructuredData() {
     if (window.location.pathname.includes('_zh_tw')) language = 'zh-TW';
     if (window.location.pathname.includes('_ko')) language = 'ko';
     if (window.location.pathname.includes('_ja')) language = 'ja';
+    if (window.location.pathname.includes('_vi')) language = 'vi';
     
     // Inject timeline structured data
     injectTimelineStructuredData(language);
@@ -243,6 +244,21 @@ function getTimelineEvents(language) {
         name: "Institutional Response to Sexual Violence Criticized",
         description: "University's handling of sexual violence cases criticized for inadequate response and victim protection",
         date: "2024-12-15"
+      },
+      {
+        name: "Professor F Sexual Violence Case",
+        description: "New sexual violence scandal exposes 4-month institutional silence",
+        date: "2025-11-24"
+      },
+      {
+        name: "UBC FOI Confirms False Partnership",
+        description: "BC OIPC intervention forces UBC to confirm zero communication with Dongguk",
+        date: "2025-12-18"
+      },
+      {
+        name: "University of Southampton: 3rd False Partner",
+        description: "UK university treats partnership verification as FOI request; confirms no agreement",
+        date: "2025-12-23"
       }
     ];
   } else if (language === 'ja') {
@@ -261,6 +277,21 @@ function getTimelineEvents(language) {
         name: "性暴力に対する大学の対応が批判される",
         description: "不十分な対応と被害者保護のため、性暴力事件への大学の対応が批判される",
         date: "2024-12-15"
+      },
+      {
+        name: "Professor F Sexual Violence Case",
+        description: "New sexual violence scandal exposes 4-month institutional silence",
+        date: "2025-11-24"
+      },
+      {
+        name: "UBC FOI Confirms False Partnership",
+        description: "BC OIPC intervention forces UBC to confirm zero communication with Dongguk",
+        date: "2025-12-18"
+      },
+      {
+        name: "University of Southampton: 3rd False Partner",
+        description: "UK university treats partnership verification as FOI request; confirms no agreement",
+        date: "2025-12-23"
       }
     ];
   } else if (language === 'ko') {
@@ -279,6 +310,21 @@ function getTimelineEvents(language) {
         name: "성폭력에 대한 대학의 대응 비판",
         description: "불충분한 대응과 피해자 보호로 인해 성폭력 사건에 대한 대학의 대응이 비판을 받음",
         date: "2024-12-15"
+      },
+      {
+        name: "Professor F Sexual Violence Case",
+        description: "New sexual violence scandal exposes 4-month institutional silence",
+        date: "2025-11-24"
+      },
+      {
+        name: "UBC FOI Confirms False Partnership",
+        description: "BC OIPC intervention forces UBC to confirm zero communication with Dongguk",
+        date: "2025-12-18"
+      },
+      {
+        name: "University of Southampton: 3rd False Partner",
+        description: "UK university treats partnership verification as FOI request; confirms no agreement",
+        date: "2025-12-23"
       }
     ];
   } else if (language === 'zh-CN') {
@@ -297,6 +343,114 @@ function getTimelineEvents(language) {
         name: "大学对性暴力的应对受到批评",
         description: "大学处理性暴力案件的方式因应对不足和受害者保护不力而受到批评",
         date: "2024-12-15"
+      },
+      {
+        name: "Professor F Sexual Violence Case",
+        description: "New sexual violence scandal exposes 4-month institutional silence",
+        date: "2025-11-24"
+      },
+      {
+        name: "UBC FOI Confirms False Partnership",
+        description: "BC OIPC intervention forces UBC to confirm zero communication with Dongguk",
+        date: "2025-12-18"
+      },
+      {
+        name: "University of Southampton: 3rd False Partner",
+        description: "UK university treats partnership verification as FOI request; confirms no agreement",
+        date: "2025-12-23"
+      }
+    ];
+  } else if (language === 'vi') {
+    return [
+      {
+        name: "Vụ Bê Bối Shingate",
+        description: "Vụ bê bối lớn liên quan đến sự xuyên tạc của tổ chức",
+        date: "2008"
+      },
+      {
+        name: "Bạo Lực Tình Dục Bởi Giáo Sư Truyền Thông",
+        description: "Giáo sư tấn công tình dục sinh viên cao học tại Đại học Dongguk",
+        date: "2015-11"
+      },
+      {
+        name: "Vụ Án Bạo Lực Tình Dục Của Giáo Sư Truyền Thông",
+        description: "Giáo sư bị truy tố vì tấn công tình dục sinh viên cao học",
+        date: "2016-02"
+      },
+      {
+        name: "Chính Sách Thay Thế Giáo Sư",
+        description: "Chính sách cho phép sinh viên đổi giáo sư trong các trường hợp bị lạm dụng bằng lời nói hoặc bạo lực tình dục",
+        date: "2016-08"
+      },
+      {
+        name: "Hội Sinh Viên Nữ Bị Bãi Bỏ",
+        description: "Nhóm vận động chính cho sinh viên nữ bị loại bỏ",
+        date: "2018"
+      },
+      {
+        name: "Báo Cáo Của KWDI Về Bạo Lực Tình Dục Trong Nghệ Thuật",
+        description: "Báo cáo về bạo lực tình dục trong giáo dục nghệ thuật sau phong trào MeToo",
+        date: "2020"
+      },
+      {
+        name: "Bắt Đầu Gửi Email Liên Hệ",
+        description: "Liên hệ ban đầu với Đại học Dongguk, không có phản hồi",
+        date: "2025-03-08"
+      },
+      {
+        name: "Email Gửi Toàn Thể Giảng Viên",
+        description: "Tất cả giảng viên đã được liên hệ, không có phản hồi",
+        date: "2025-03-14"
+      },
+      {
+        name: "Blog Được Xuất Bản",
+        description: "Blog vạch trần các tuyên bố hợp tác giả mạo của Dongguk và cáo buộc lạm dụng quỹ công",
+        date: "2025-04-05"
+      },
+      {
+        name: "Leo Thang Rủi Ro Title IX",
+        description: "Phản hồi bác bỏ của Dongguk: 'Bạn gửi email với mục đích gì?'",
+        date: "2025-04-05"
+      },
+      {
+        name: "Các Trường Đại Học Đối Tác Phản Hồi",
+        description: "Nhận được phản hồi từ các trường đại học đối tác và tổ chức xếp hạng toàn cầu",
+        date: "2025-04-07"
+      },
+      {
+        name: "Sự Im Lặng Của Trường Đại Học",
+        description: "Tổ chức từ chối tiếp tục tham gia",
+        date: "2025-04-06"
+      },
+      {
+        name: "Blog Vạch Trần: Quan Hệ Đối Tác Giả Mạo & Cáo Buộc Gian Lận Thuế",
+        description: "Blog vạch trần các tuyên bố hợp tác sai lệch của Dongguk và cáo buộc gian lận thuế",
+        date: "2025-05-02"
+      },
+      {
+        name: "25 Ngày Im Lặng Của Chính Phủ",
+        description: "Các cơ quan chính phủ Hàn Quốc phớt lờ bằng chứng về gian lận đối tác và dung túng bạo lực tình dục",
+        date: "2025-05-04"
+      },
+      {
+        name: "Vạch Trần Khủng Hoảng Chứng Nhận IEQAS",
+        description: "Cuộc điều tra mở rộng sang nhiều trường đại học Hàn Quốc, tiết lộ rủi ro bạo lực tình dục mang tính hệ thống",
+        date: "2025-05-12"
+      },
+      {
+        name: "Vụ Án Bạo Lực Tình Dục Của Giáo Sư F",
+        description: "Vụ bê bối bạo lực tình dục mới phơi bày sự im lặng 4 tháng của tổ chức",
+        date: "2025-11-24"
+      },
+      {
+        name: "FOI Của UBC Xác Nhận Quan Hệ Đối Tác Giả Mạo",
+        description: "Sự can thiệp của OIPC BC buộc UBC phải xác nhận không có liên lạc nào với Dongguk",
+        date: "2025-12-18"
+      },
+      {
+        name: "Đại Học Southampton: Đối Tác Giả Mạo Thứ 3",
+        description: "Trường đại học Vương quốc Anh coi việc xác minh đối tác là yêu cầu FOI; xác nhận không có thỏa thuận",
+        date: "2025-12-23"
       }
     ];
   } else if (language === 'zh-TW') {
@@ -333,7 +487,8 @@ function getBlogPosts(language) {
                   language === 'zh-TW' ? 'zh_tw' : 
                   language === 'en' ? 'en' : 
                   language === 'ja' ? 'ja' : 
-                  language === 'ko' ? 'ko' : 'en';
+                  language === 'ko' ? 'ko' : 
+                  language === 'vi' ? 'vi' : 'en';
   
   // Common blog post data structure with translations
   const postData = [
@@ -345,14 +500,16 @@ function getBlogPosts(language) {
         'ja': "2016年東国大学教授による性暴力事件",
         'ko': "2016년 동국대학교 교수 성폭력 사건",
         'zh-CN': "2016年东国大学教授性暴力案件",
-        'zh-TW': "2016年東國大學教授性暴力案件"
+        'zh-TW': "2016年東國大學教授性暴力案件",
+        'vi': "Vụ Án Bạo Lực Tình Dục Của Giáo Sư Đại Học Dongguk Năm 2016"
       },
       descriptions: {
         'en': "Details of the 2016 sexual assault case by a Dongguk University professor against a female student",
         'ja': "東国大学教授による女子学生への2016年性暴力事件の詳細",
         'ko': "동국대학교 교수가 여학생에게 행한 2016년 성폭력 사건의 상세내용",
         'zh-CN': "2016年东国大学教授对女学生性暴力案件的详细情况",
-        'zh-TW': "2016年東國大學教授對女學生性暴力案件的詳細情況"
+        'zh-TW': "2016年東國大學教授對女學生性暴力案件的詳細情況",
+        'vi': "Chi tiết về vụ án tấn công tình dục năm 2016 của một giáo sư Đại học Dongguk đối với một nữ sinh viên"
       }
     },
     {
@@ -363,14 +520,16 @@ function getBlogPosts(language) {
         'ja': "東国大学での性暴力（2016年-2025年）",
         'ko': "동국대학교 성폭력 (2016-2025)",
         'zh-CN': "东国大学的性暴力（2016-2025）",
-        'zh-TW': "東國大學的性暴力（2016-2025）"
+        'zh-TW': "東國大學的性暴力（2016-2025）",
+        'vi': "Bạo Lực Tình Dục Tại Đại Học Dongguk (2016-2025)"
       },
       descriptions: {
         'en': "Comprehensive timeline of sexual violence cases and institutional negligence at Dongguk University from 2016 to 2025",
         'ja': "2016年から2025年までの東国大学における性暴力事件と組織的怠慢の包括的な時系列",
         'ko': "2016년부터 2025년까지 동국대학교에서 발생한 성폭력 사건 및 기관 방치 사례의 종합적인 타임라인",
         'zh-CN': "2016年至2025年东国大学性暴力案件和机构疏忽的全面时间线",
-        'zh-TW': "2016年至2025年東國大學性暴力案件和機構疏忽的全面時間線"
+        'zh-TW': "2016年至2025年東國大學性暴力案件和機構疏忽的全面時間線",
+        'vi': "Dòng thời gian toàn diện về các vụ bạo lực tình dục và sự tắc trách của tổ chức tại Đại học Dongguk từ năm 2016 đến 2025"
       }
     },
     {
@@ -381,14 +540,16 @@ function getBlogPosts(language) {
         'ja': "仏教教育における倫理の悪用と性暴力",
         'ko': "불교 교육에서의 윤리 착취와 성폭력",
         'zh-CN': "佛教教育中的伦理剥削和性暴力",
-        'zh-TW': "佛教教育中的倫理剝削和性暴力"
+        'zh-TW': "佛教教育中的倫理剝削和性暴力",
+        'vi': "Lợi Dụng Đạo Đức Và Bạo Lực Tình Dục Trong Giáo Dục Phật Giáo"
       },
       descriptions: {
         'en': "Analysis of how Buddhist ethics are exploited to silence sexual violence victims in academic institutions",
         'ja': "学術機関で性暴力被害者を黙らせるために仏教倫理がどのように悪用されているかの分析",
         'ko': "학술 기관에서 성폭력 피해자를 침묵시키기 위해 불교 윤리가 어떻게 악용되는지에 대한 분석",
         'zh-CN': "分析佛教伦理如何被利用来使学术机构中的性暴力受害者保持沉默",
-        'zh-TW': "分析佛教倫理如何被利用來使學術機構中的性暴力受害者保持沉默"
+        'zh-TW': "分析佛教倫理如何被利用來使學術機構中的性暴力受害者保持沉默",
+        'vi': "Phân tích cách đạo đức Phật giáo bị lợi dụng để bịt miệng nạn nhân bạo lực tình dục trong các cơ sở giáo dục"
       }
     }
   ];

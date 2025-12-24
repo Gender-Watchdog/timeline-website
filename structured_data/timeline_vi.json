@@ -1,0 +1,315 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Dongguk Bị Phơi Bày: Dòng Thời Gian Bạo Lực Tình Dục Phân Biệt Chủng Tộc",
+    "description": "Dòng thời gian tương tác ghi lại một thập kỷ các vụ bạo lực tình dục phân biệt chủng tộc, sự sơ suất của thể chế và cáo buộc gian lận quỹ công tại Đại học Dongguk (2008-2025).",
+    "url": "https://genderwatchdog1.github.io/timeline-website/timeline_vi.html",
+    "datePublished": "2025-04-05T12:00:00+09:00",
+    "dateModified": "2025-12-24T12:00:00+09:00",
+    "author": {
+      "@type": "Organization",
+      "name": "Gender Watchdog"
+    },
+    "mainEntity": {
+      "@type": "ItemList",
+      "name": "Dòng Thời Gian Bạo Lực Tình Dục Phân Biệt Chủng Tộc Đại học Dongguk",
+      "description": "Tài liệu theo trình tự thời gian về các vụ bạo lực tình dục phân biệt chủng tộc, những thất bại của thể chế và nỗ lực vận động tại Đại học Dongguk từ 2008-2025",
+      "numberOfItems": 19,
+      "itemListOrder": "Ascending",
+      "itemListElement": [
+        {
+          "@type": "Event",
+          "name": "Bê bối Shingate",
+          "startDate": "2008",
+          "description": "Bê bối lớn liên quan đến việc trình bày sai sự thật của thể chế. Trường đại học đã lợi dụng luật pháp Hoa Kỳ trong khi phớt lờ các giá trị của chính mình.",
+          "location": {
+            "@type": "Organization",
+            "name": "Đại học Dongguk"
+          },
+          "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/en/shingate.html"
+        },
+        {
+          "@type": "Event",
+          "name": "Tấn công Tình dục bởi Giáo sư Truyền thông",
+          "startDate": "2015-11",
+          "description": "Giáo sư tấn công tình dục sinh viên cao học tại Đại học Dongguk trong một buổi nhậu.",
+          "location": {
+            "@type": "Organization",
+            "name": "Đại học Dongguk"
+          },
+          "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/en/2016_dongguk_prof_sexual_assault.html",
+          "keywords": "tấn công tình dục, hành vi sai trái của giáo sư, bạo lực tình dục phân biệt chủng tộc"
+        },
+        {
+          "@type": "Event",
+          "name": "Vụ án Tấn công Tình dục Giáo sư Truyền thông",
+          "startDate": "2016-02",
+          "description": "Giáo sư từ Chuyên ngành Truyền thông của Đại học Dongguk bị truy tố vì tấn công tình dục sinh viên cao học. Trường đại học đã phản ứng chậm trễ và thụ động.",
+          "location": {
+            "@type": "Organization",
+            "name": "Đại học Dongguk"
+          },
+          "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/en/2016_dongguk_prof_sexual_assault.html",
+          "keywords": "truy tố tấn công tình dục, sơ suất của thể chế"
+        },
+        {
+          "@type": "Event",
+          "name": "Chính sách Thay thế Giáo sư",
+          "startDate": "2016-08",
+          "description": "Đại học Dongguk đã đưa ra quy định cho phép sinh viên bị lạm dụng bằng lời nói hoặc bạo lực tình dục yêu cầu thay đổi giáo sư.",
+          "location": {
+            "@type": "Organization",
+            "name": "Đại học Dongguk"
+          },
+          "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/en/dongguk_exposed_2016_2025.html#1-2016-professor-replacement-policy",
+          "keywords": "cải cách chính sách, ngăn chặn bạo lực tình dục"
+        },
+        {
+          "@type": "Event",
+          "name": "Hội Sinh viên Nữ bị Bãi bỏ",
+          "startDate": "2018",
+          "description": "Vào đỉnh điểm của phong trào MeToo, Đại học Dongguk đã bãi bỏ Hội Sinh viên Nữ, một nhóm vận động quan trọng cho phụ nữ.",
+          "location": {
+            "@type": "Organization",
+            "name": "Đại học Dongguk"
+          },
+          "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/en/dongguk_exposed_2016_2025.html#2-2018-metoo-movement-abolition-of-the-womens-student-council",
+          "keywords": "sự thụt lùi của thể chế, loại bỏ vận động cho phụ nữ"
+        },
+        {
+          "@type": "Event",
+          "name": "Báo cáo Bạo lực Tình dục trong Nghệ thuật KWDI",
+          "startDate": "2020",
+          "description": "Viện Phát triển Phụ nữ Hàn Quốc đã công bố báo cáo toàn diện về bạo lực tình dục trong các chương trình giáo dục nghệ thuật, nêu bật các vấn đề hệ thống bao gồm cả tại Đại học Dongguk.",
+          "location": {
+            "@type": "Country",
+            "name": "Hàn Quốc"
+          },
+          "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/en/kwdi_infographics.html",
+          "keywords": "tài liệu nghiên cứu, thống kê bạo lực tình dục"
+        },
+        {
+          "@type": "Event",
+          "name": "Bắt đầu Tiếp cận qua Email",
+          "startDate": "2025-03-08",
+          "endDate": "2025-03-09",
+          "description": "Các email ban đầu liên quan đến những lo ngại về bạo lực tình dục đã được gửi đến Đại học Dongguk nhưng không có phản hồi, bắt đầu mô hình im lặng của thể chế.",
+          "location": {
+            "@type": "Organization",
+            "name": "Đại học Dongguk"
+          },
+          "keywords": "tiếp cận vận động, sự im lặng của thể chế"
+        },
+        {
+          "@type": "Event",
+          "name": "Chiến dịch Email Toàn Khoa",
+          "startDate": "2025-03-14",
+          "endDate": "2025-03-15",
+          "description": "Tất cả giảng viên của Trường Cao học Nội dung Số & Truyền thông của Đại học Dongguk đã được liên hệ nhưng không có phản hồi, cho thấy sự im lặng tập thể của thể chế.",
+          "location": {
+            "@type": "Organization",
+            "name": "Đại học Dongguk"
+          },
+          "keywords": "tiếp cận giảng viên, sự im lặng tập thể"
+        },
+        {
+          "@type": "Event",
+          "name": "Blog Được Xuất bản: Dongguk Bị Phơi Bày",
+          "startDate": "2025-04-05",
+          "description": "Blog Gender Watchdog đã công bố bằng chứng về các tuyên bố đối tác giả mạo và mô hình kéo dài một thập kỷ về các vụ bạo lực tình dục và sự bỏ bê của thể chế.",
+          "location": {
+            "@type": "Organization",
+            "name": "Đại học Dongguk"
+          },
+          "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/en/dongguk_exposed_2016_2025.html",
+          "keywords": "tài liệu điều tra, gian lận đối tác, bạo lực tình dục phân biệt chủng tộc"
+        },
+        {
+          "@type": "Event",
+          "name": "Leo thang Rủi ro Title IX",
+          "startDate": "2025-04-05",
+          "endDate": "2025-04-06",
+          "description": "Đại học Dongguk đã phản hồi một cách bác bỏ đối với các lo ngại về rủi ro Title IX với câu hỏi 'Bạn gửi email với mục đích gì?', thể hiện sự thất bại trong việc tham gia vào các mối quan tâm về an toàn.",
+          "location": {
+            "@type": "Organization",
+            "name": "Đại học Dongguk"
+          },
+          "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/en/title_ix_risk_advisory.html",
+          "keywords": "vi phạm Title IX, sự bác bỏ của thể chế"
+        },
+        {
+          "@type": "Event",
+          "name": "Các Đại học Đối tác Phản hồi",
+          "startDate": "2025-04-07",
+          "description": "Nhiều trường đại học được Dongguk liệt kê là đối tác bắt đầu phản hồi, với một tổ chức Canada tuyên bố 'Chúng tôi không có thỏa thuận trao đổi sinh viên với Đại học Dongguk.'",
+          "location": {
+            "@type": "Place",
+            "name": "Quốc tế"
+          },
+          "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/en/fictional_partnerships_title_ix_dongguk.html",
+          "keywords": "xác minh đối tác, gian lận thể chế"
+        },
+        {
+          "@type": "Event",
+          "name": "Sự Im lặng của Đại học Tiếp diễn",
+          "startDate": "2025-04-06",
+          "description": "Đại học Dongguk từ chối tham gia thêm kể từ các email ngày 5-6 tháng 4, củng cố những lo ngại về cam kết của tổ chức trong việc giải quyết các rủi ro bạo lực tình dục phân biệt chủng tộc.",
+          "location": {
+            "@type": "Organization",
+            "name": "Đại học Dongguk"
+          },
+          "keywords": "sự im lặng của thể chế, trốn tránh trách nhiệm"
+        },
+        {
+          "@type": "Event",
+          "name": "Blog Phơi bày: Đối tác Giả mạo & Cáo buộc Gian lận Thuế",
+          "startDate": "2025-05-02",
+          "description": "Gender Watchdog công bố bằng chứng thuyết phục rằng Đại học Dongguk tiếp tục tuyên bố sai sự thật về quan hệ đối tác với các trường đại học đã chính thức phủ nhận mối quan hệ, đặt ra câu hỏi về gian lận thuế.",
+          "location": {
+            "@type": "Organization",
+            "name": "Đại học Dongguk"
+          },
+          "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/en/false_partners_alleged_taxpayer_fraud.html",
+          "keywords": "gian lận thuế, đối tác giả mạo, sự lừa dối của thể chế"
+        },
+        {
+          "@type": "Event",
+          "name": "25 Ngày Im lặng của Chính phủ",
+          "startDate": "2025-05-04",
+          "description": "25 ngày hoàn toàn im lặng từ bảy cơ quan chính phủ Hàn Quốc sau khi nhận được bằng chứng về gian lận đối tác, trực tiếp củng cố các điều kiện cấu trúc cho phép bạo lực tình dục phân biệt chủng tộc.",
+          "location": {
+            "@type": "Country",
+            "name": "Hàn Quốc"
+          },
+          "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/en/05102025_korean_govt_slow.html",
+          "keywords": "sự sơ suất của chính phủ, sự cho phép của hệ thống"
+        },
+        {
+          "@type": "Event",
+          "name": "Phơi bày Khủng hoảng Chứng nhận IEQAS",
+          "startDate": "2025-05-12",
+          "description": "Cuộc điều tra mở rộng sang các vấn đề bạo lực tình dục phân biệt chủng tộc mang tính hệ thống trên toàn bộ giáo dục đại học Hàn Quốc, tiết lộ chứng nhận IEQAS bị xâm phạm và đội ngũ giảng viên toàn nam giới tạo điều kiện cho việc nhắm mục tiêu vào phụ nữ nước ngoài.",
+          "location": {
+            "@type": "Country",
+            "name": "Hàn Quốc"
+          },
+          "url": "https://genderwatchdog1.github.io/timeline-website/blog_posts/en/05152025_horizontal_ieqas.html",
+          "keywords": "điều tra hệ thống, chứng nhận IEQAS, nhắm mục tiêu phân biệt chủng tộc"
+        },
+        {
+          "@type": "Event",
+          "name": "Vụ Bạo lực Tình dục Giáo sư F",
+          "startDate": "2025-11-24",
+          "description": "Một bê bối bạo lực tình dục mới tại Đại học Dongguk liên quan đến 'Giáo sư F' phơi bày sự im lặng của thể chế trong 4 tháng và sự thất bại của Trung tâm Nhân quyền.",
+          "location": {
+            "@type": "Organization",
+            "name": "Đại học Dongguk"
+          },
+          "url": "https://blog.genderwatchdog.org/new-sexual-violence-case-at-dongguk-university-professor-f-abuse-and-institutional-silence/",
+          "keywords": "bạo lực tình dục, sự im lặng của thể chế, giáo sư F"
+        },
+        {
+          "@type": "Event",
+          "name": "UBC FOI Xác nhận Đối tác Giả mạo",
+          "startDate": "2025-12-18",
+          "description": "Ủy viên Thông tin & Quyền riêng tư BC (OIPC) đã phải can thiệp sau khi UBC không đưa ra được bất kỳ hồ sơ liên lạc nào với Dongguk trong cả một năm học.",
+          "location": {
+            "@type": "Organization",
+            "name": "Đại học British Columbia"
+          },
+          "url": "https://blog.genderwatchdog.org/global-fraud-alert-3-confirmed-false-partnerships-expose-dongguk-universitys-house-of-cards/",
+          "keywords": "FOI, đối tác giả mạo, UBC"
+        },
+        {
+          "@type": "Event",
+          "name": "Đại học Southampton: Đối tác Giả mạo Thứ 3",
+          "startDate": "2025-12-23",
+          "description": "Cuộc điều tra mới nhất của chúng tôi về các đối tác châu Âu của Dongguk đã tiết lộ trường hợp thứ ba được xác nhận là trình bày sai sự thật. Southampton không liệt kê Dongguk trên bản đồ đối tác toàn cầu chính thức của họ.",
+          "location": {
+            "@type": "Organization",
+            "name": "Đại học Southampton"
+          },
+          "url": "https://blog.genderwatchdog.org/global-fraud-alert-3-confirmed-false-partnerships-expose-dongguk-universitys-house-of-cards/",
+          "keywords": "đối tác giả mạo, Southampton, gian lận"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Gender Watchdog",
+    "url": "https://genderwatchdog1.github.io/timeline-website/",
+    "logo": "https://genderwatchdog1.github.io/timeline-website/imgs/favicons/gender_watchdog_favicon_128x128.png",
+    "description": "Ghi lại và đối đầu với bạo lực tình dục phân biệt chủng tộc tại các trường đại học và ngành công nghiệp điện ảnh Hàn Quốc. Yêu cầu trách nhiệm giải trình từ cả giới học thuật và ngành công nghiệp.",
+    "sameAs": [
+      "https://x.com/Gender_Watchdog",
+      "https://blog.genderwatchdog.org/",
+      "https://metookorea2025.genderwatchdog.org/",
+      "https://www.youtube.com/@GenderWatchdog"
+    ],
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "advocacy"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Dòng thời gian này ghi lại điều gì?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dòng thời gian tương tác này ghi lại một thập kỷ các vụ bạo lực tình dục phân biệt chủng tộc, sự sơ suất của thể chế và cáo buộc gian lận quỹ công tại Đại học Dongguk từ 2008-2025. Mỗi sự kiện trong dòng thời gian liên kết đến tài liệu chi tiết với bằng chứng về việc nhắm mục tiêu có hệ thống vào phụ nữ nước ngoài, đặc biệt là từ Trung Quốc và Đông Nam Á, và những thất bại của thể chế trong việc phản ứng."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Làm thế nào để tôi truy cập thông tin chi tiết về từng sự kiện trong dòng thời gian?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Nhấp vào bất kỳ sự kiện nào trong dòng thời gian để truy cập tài liệu bài đăng blog toàn diện với bằng chứng, phân tích và nội dung đa ngôn ngữ. Mỗi sự kiện bao gồm các liên kết đến các bài viết đầy đủ có sẵn bằng tiếng Anh, tiếng Hàn, tiếng Nhật và tiếng Trung (Giản thể và Phồn thể)."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Bằng chứng nào hỗ trợ các tuyên bố về bạo lực tình dục phân biệt chủng tộc tại Đại học Dongguk?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Bằng chứng bao gồm: Nghiên cứu của Viện Phát triển Phụ nữ Hàn Quốc cho thấy điểm rủi ro bạo lực tình dục 81/100 cho chương trình điện ảnh của Dongguk (cao nhất trong số các chương trình được nghiên cứu), các vụ tấn công tình dục của giáo sư được ghi lại với phản ứng chậm trễ của thể chế, việc bãi bỏ Hội Sinh viên Nữ trong phong trào MeToo, các tuyên bố đối tác giả mạo nhắm vào sinh viên nước ngoài, và các mô hình nhắm mục tiêu có hệ thống ảnh hưởng không cân xứng đến phụ nữ nước ngoài."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Tại sao lại tập trung cụ thể vào bạo lực tình dục 'phân biệt chủng tộc'?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Hàn Quốc xếp thứ 5 toàn cầu về phân biệt chủng tộc (US News & World Report). Bằng chứng cho thấy việc nhắm mục tiêu có hệ thống vào phụ nữ nước ngoài dựa trên các định kiến chủng tộc, sử dụng các quan hệ đối tác quốc tế giả mạo để tuyển dụng sinh viên nước ngoài dễ bị tổn thương, và các rào cản thể chế gây bất lợi cụ thể cho các nạn nhân nước ngoài. Đây không phải là bạo lực tình dục đơn lẻ - đó là sự nhắm mục tiêu phân biệt chủng tộc giao thoa giữa phân biệt chủng tộc và bạo lực tình dục."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Sinh viên quốc tế nên biết gì trước khi học tập tại Hàn Quốc?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Sinh viên quốc tế, đặc biệt là phụ nữ, nên: xác minh độc lập các quan hệ đối tác đại học được tuyên bố trước khi đăng ký, nghiên cứu số liệu thống kê về bạo lực tình dục và hồ sơ phản ứng của thể chế, hiểu rằng một số trường đại học Hàn Quốc có thể sử dụng các tuyên bố đối tác giả mạo làm công cụ tuyển sinh, kết nối sớm với các tổ chức hỗ trợ, và nhận ra rằng sự bảo vệ của thể chế có thể không đầy đủ cho sinh viên nước ngoài đối mặt với bạo lực tình dục phân biệt chủng tộc."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Dongguk Bị Phơi Bày: Dòng Thời Gian Bạo Lực Tình Dục Phân Biệt Chủng Tộc",
+    "url": "https://genderwatchdog1.github.io/timeline-website/",
+    "description": "Dòng thời gian tương tác ghi lại bạo lực tình dục phân biệt chủng tộc có hệ thống và những thất bại của thể chế tại các trường đại học Hàn Quốc",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Gender Watchdog"
+    },
+    "inLanguage": ["en", "ko", "ja", "zh-CN", "zh-TW", "vi"]
+  }
+]
