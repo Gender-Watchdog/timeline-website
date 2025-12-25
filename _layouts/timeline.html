@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<div class="container py-4">
+  <h1 class="text-center">{{ site.data.ui_text[page.lang].title }}</h1>
+  <h2 class="subtitle text-center mb-4">{{ site.data.ui_text[page.lang].subtitle }}</h2>
+
+  <!-- Breaking News Alert -->
+  <div class="alert alert-danger text-center mb-4" role="alert">
+    {{ site.data.ui_text[page.lang].alert }}
+  </div>
+
+  <div class="d-flex justify-content-center flex-wrap mb-4">
+      <a href="{{ site.baseurl }}/index.html" class="language-link {% if page.lang == 'en' %}active{% endif %} mx-1">English</a>
+      <a href="{{ site.baseurl }}/timeline_zh_cn.html" class="language-link {% if page.lang == 'zh-CN' %}active{% endif %} mx-1">简体中文</a>
+      <a href="{{ site.baseurl }}/timeline_zh_tw.html" class="language-link {% if page.lang == 'zh-TW' %}active{% endif %} mx-1">繁體中文</a>
+      <a href="{{ site.baseurl }}/timeline_ja.html" class="language-link {% if page.lang == 'ja' %}active{% endif %} mx-1">日本語</a>
+      <a href="{{ site.baseurl }}/timeline_ko.html" class="language-link {% if page.lang == 'ko' %}active{% endif %} mx-1">한국어</a>
+      <a href="{{ site.baseurl }}/timeline_vi.html" class="language-link {% if page.lang == 'vi' %}active{% endif %} mx-1">Tiếng Việt</a>
+  </div>
+
+  {{ content }}
+</div>

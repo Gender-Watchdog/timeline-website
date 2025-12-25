@@ -1,0 +1,280 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "東国大学の真実：10年間の人種化された性暴力危機",
+    "description": "東国大学における10年にわたる人種化された性暴力事件、制度的怠慢、および公的資金詐欺疑惑のインタラクティブ・タイムライン（2008-2025）。",
+    "url": "https://dongguk.genderwatchdog.org/timeline_ja.html",
+    "datePublished": "2025-04-05T12:00:00+09:00",
+    "dateModified": "2025-05-15T12:00:00+09:00",
+    "author": {
+      "@type": "Organization",
+      "name": "Gender Watchdog"
+    },
+    "inLanguage": "ja",
+    "mainEntity": {
+      "@type": "ItemList",
+      "name": "東国大学の人種化された性暴力タイムライン",
+      "description": "2008年から2025年までの東国大学における人種化された性暴力事件、制度的失敗、および支援活動の年代記録",
+      "numberOfItems": 16,
+      "itemListOrder": "Ascending",
+      "itemListElement": [
+        {
+          "@type": "Event",
+          "name": "シンゲート・スキャンダル",
+          "startDate": "2008",
+          "description": "組織的虚偽申告を含む主要なスキャンダル。大学は米国法を活用する一方で、その価値を無視した。",
+          "location": {
+            "@type": "Place",
+            "name": "東国大学（ソウル、韓国）"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/ja/shingate.html"
+        },
+        {
+          "@type": "Event",
+          "name": "メディア・コミュニケーション教授による性暴力",
+          "startDate": "2015-11",
+          "description": "教授が東国大学の大学院生に対して飲み会の席で性暴力を働く。",
+          "location": {
+            "@type": "Place",
+            "name": "東国大学（ソウル、韓国）"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/ja/2016_dongguk_prof_sexual_assault.html",
+          "keywords": "性暴力, 教授の不祥事, 人種化された性暴力"
+        },
+        {
+          "@type": "Event",
+          "name": "メディア・コミュニケーション教授の性暴力事件",
+          "startDate": "2016-02",
+          "description": "東国大学のメディア・コミュニケーション専攻の教授が大学院生への性暴力で起訴。大学は遅延した対応と反応的アプローチを示した。",
+          "location": {
+            "@type": "Place",
+            "name": "東国大学（ソウル、韓国）"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/ja/2016_dongguk_prof_sexual_assault.html",
+          "keywords": "性暴力起訴, 制度的怠慢"
+        },
+        {
+          "@type": "Event",
+          "name": "教授交代ポリシー",
+          "startDate": "2016-08",
+          "description": "東国大学が言語的虐待または性暴力を受けた学生に教授の交代を申請できる条項を導入。",
+          "location": {
+            "@type": "Place",
+            "name": "東国大学（ソウル、韓国）"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/ja/dongguk_exposed_2016_2025.html#1-2016-professor-replacement-policy",
+          "keywords": "政策改革, 性暴力防止"
+        },
+        {
+          "@type": "Event",
+          "name": "女性学生会の廃止",
+          "startDate": "2018",
+          "description": "MeToo運動が最高潮に達した時、東国大学は重要な女性擁護団体であった女性学生会を廃止。",
+          "location": {
+            "@type": "Place",
+            "name": "東国大学（ソウル、韓国）"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/ja/dongguk_exposed_2016_2025.html#2-2018-metoo-movement-abolition-of-the-womens-student-council",
+          "keywords": "制度的後退, 女性擁護の排除"
+        },
+        {
+          "@type": "Event",
+          "name": "KWDI芸術分野における性暴力報告書",
+          "startDate": "2020",
+          "description": "韓国女性政策研究院がMeToo運動後の芸術教育プログラムにおける性暴力に関する包括的報告書を発表、東国大学を含む組織的問題を強調。",
+          "location": {
+            "@type": "Place",
+            "name": "韓国"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/ja/kwdi_infographics.html",
+          "keywords": "研究記録, 性暴力統計"
+        },
+        {
+          "@type": "Event",
+          "name": "初期メール連絡",
+          "startDate": "2025-03-08",
+          "endDate": "2025-03-09",
+          "description": "性暴力に関する懸念についての初期メールが東国大学に送られたが返答なし、制度的沈黙のパターンが始まる。",
+          "location": {
+            "@type": "Place",
+            "name": "東国大学（ソウル、韓国）"
+          },
+          "keywords": "支援活動の連絡, 制度的沈黙"
+        },
+        {
+          "@type": "Event",
+          "name": "全教授陣へのメール キャンペーン",
+          "startDate": "2025-03-14",
+          "endDate": "2025-03-15",
+          "description": "東国大学デジタルコンテンツ・メディア大学院の全教授陣に連絡したが返答なし、集団的な制度的沈黙を示す。",
+          "location": {
+            "@type": "Place",
+            "name": "東国大学（ソウル、韓国）"
+          },
+          "keywords": "教員への連絡, 集団的沈黙"
+        },
+        {
+          "@type": "Event",
+          "name": "ブログ公開：東国大学の真実",
+          "startDate": "2025-04-05",
+          "description": "Gender Watchdogブログが偽のパートナーシップ主張の証拠と10年間の性暴力事件および制度的怠慢のパターンを公開。",
+          "location": {
+            "@type": "Organization",
+            "name": "東国大学"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/ja/dongguk_exposed_2016_2025.html",
+          "keywords": "調査記録, パートナーシップ詐欺, 人種化された性暴力"
+        },
+        {
+          "@type": "Event",
+          "name": "タイトルIXリスク上昇",
+          "startDate": "2025-04-05",
+          "endDate": "2025-04-06",
+          "description": "東国大学がタイトルIXリスクに関する懸念に対し「このメールの目的は何ですか？」と失礼に返答、安全懸念への対応の失敗を示す。",
+          "location": {
+            "@type": "Organization",
+            "name": "東国大学"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/ja/title_ix_risk_advisory.html",
+          "keywords": "タイトルIX違反, 制度的軽視"
+        },
+        {
+          "@type": "Event",
+          "name": "提携大学からの回答",
+          "startDate": "2025-04-07",
+          "description": "東国大学がパートナーとしてリストしていた複数の大学が回答し始め、カナダの機関は「当校は東国大学との学生交流協定を結んでいません」と述べる。",
+          "location": {
+            "@type": "Place",
+            "name": "国際"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/ja/fictional_partnerships_title_ix_dongguk.html",
+          "keywords": "パートナーシップ検証, 制度的詐欺"
+        },
+        {
+          "@type": "Event",
+          "name": "大学の沈黙が継続",
+          "startDate": "2025-04-06",
+          "description": "東国大学が4月5-6日のメール以降、さらなる対応を拒否、人種化された性暴力リスクへの対処に対する制度的取り組みへの懸念を強化。",
+          "location": {
+            "@type": "Organization",
+            "name": "東国大学"
+          },
+          "keywords": "制度的沈黙, 説明責任の回避"
+        },
+        {
+          "@type": "Event",
+          "name": "ブログ告発：偽パートナーシップと疑惑の納税者詐欺",
+          "startDate": "2025-05-02",
+          "description": "Gender Watchdogが東国大学が公式に関係を否定した大学とのパートナーシップを引き続き虚偽主張している決定的証拠を公開、納税者詐欺の疑問を提起。",
+          "location": {
+            "@type": "Organization",
+            "name": "東国大学"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/ja/false_partners_alleged_taxpayer_fraud.html",
+          "keywords": "納税者詐欺, 偽パートナーシップ, 制度的欺瞞"
+        },
+        {
+          "@type": "Event",
+          "name": "政府の25日間の沈黙",
+          "startDate": "2025-05-04",
+          "description": "7つの韓国政府機関がパートナーシップ詐欺の証拠を受け取って以降25日間完全な沈黙、人種化された性暴力を可能にする構造的条件を直接強化。",
+          "location": {
+            "@type": "Place",
+            "name": "韓国"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/ja/05102025_korean_govt_slow.html",
+          "keywords": "政府の怠慢, 体系的促進"
+        },
+        {
+          "@type": "Event",
+          "name": "IEQAS認証危機の告発",
+          "startDate": "2025-05-12",
+          "description": "調査が韓国高等教育全体の体系的人種化された性暴力問題に拡大、IEQAS認証の妥協と外国人女性のターゲティングを可能にする男性のみの教員構成を明らかに。",
+          "location": {
+            "@type": "Country",
+            "name": "韓国"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/ja/05152025_ja_horizontal_ieqas.html",
+          "keywords": "体系的調査, IEQAS認証, 人種化されたターゲティング"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Gender Watchdog",
+    "url": "https://dongguk.genderwatchdog.org/",
+    "logo": "https://dongguk.genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_128x128.png",
+    "description": "韓国の大学と映画業界における人種化された性暴力の記録と対峙。学術界と産業界両方の説明責任を要求。",
+    "sameAs": [
+      "https://x.com/Gender_Watchdog",
+      "https://blog.genderwatchdog.org/",
+      "https://metookorea2025.genderwatchdog.org/",
+      "https://www.youtube.com/@GenderWatchdog"
+    ],
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "advocacy"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "このタイムラインは何を記録していますか？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "このインタラクティブ・タイムラインは、2008年から2025年までの東国大学における10年間の人種化された性暴力事件、制度的怠慢、および公的資金詐欺疑惑を記録しています。各タイムライン・イベントは、特に中国や東南アジア出身の外国人女性の組織的ターゲティングの証拠と制度的対応の失敗を含む詳細な記録にリンクしています。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "各タイムライン・イベントの詳細情報にはどうアクセスできますか？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "任意のタイムライン・イベントをクリックすると、証拠、分析、多言語コンテンツを含む包括的なブログ投稿記録にアクセスできます。各イベントには、日本語、韓国語、英語、中国語（簡体字・繁体字）で利用可能な完全な記事へのリンクが含まれています。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "東国大学における人種化された性暴力の主張を裏付ける証拠は何ですか？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "証拠には以下が含まれます：東国大学の映画プログラムで81/100の性暴力リスクスコア（研究されたプログラム中最高）を示す韓国女性政策研究院の研究、制度的対応の遅れを伴う教授による性暴力事件の記録、MeToo運動中の女性学生会の廃止、外国人学生をターゲットにする偽のパートナーシップ主張、外国人女性に不平等に影響する組織的ターゲティング・パターン。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "なぜ特に「人種化された」性暴力に焦点を当てるのですか？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "韓国は人種差別で世界5位の最悪ランク（US News & World Report）です。証拠は人種的固定観念に基づく外国人女性の組織的ターゲティング、脆弱な外国人学生を募集するための偽の国際パートナーシップの使用、外国人被害者を特に不利にする制度的障壁を示しています。これは孤立した性暴力ではなく、人種差別と性暴力が交差する人種化されたターゲティングです。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "韓国で勉強する前に留学生が知っておくべきことは何ですか？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "特に女性の留学生は以下を行うべきです：入学前に主張される大学パートナーシップを独立して検証する、性暴力統計と制度的対応記録を調査する、一部の韓国の大学が偽のパートナーシップ主張を募集ツールとして使用する可能性があることを理解する、早期に支援組織と連絡を取る、人種化された性暴力に直面する外国人学生にとって制度的保護が不十分である可能性があることを認識する。"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "東国大学の真実：10年間の人種化された性暴力危機",
+    "url": "https://dongguk.genderwatchdog.org/timeline_ja.html",
+    "description": "韓国の大学における体系的人種化された性暴力と制度的失敗を記録するインタラクティブ・タイムライン",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Gender Watchdog"
+    },
+    "inLanguage": "ja"
+  }
+]

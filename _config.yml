@@ -1,0 +1,11 @@
+title: "Dongguk Exposed"
+description: "Investigating academic fraud, fake global partnerships, and institutional negligence at Dongguk University."
+url: "https://dongguk.genderwatchdog.org"
+baseurl: ""
+permalink: /:path/:basename:output_ext
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"

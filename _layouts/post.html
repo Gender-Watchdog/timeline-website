@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<div class="container py-4">
+  <div class="article-body">
+    <div class="alert alert-info text-center">
+      <a href="{{ site.baseurl }}/" class="alert-link">Return to Timeline</a>
+    </div>
+    
+    <h1 class="text-center">{{ page.title }}</h1>
+    {% if page.updated_date %}
+    <p class="text-center text-muted">Updated: {{ page.updated_date }}</p>
+    {% endif %}
+    
+    <div class="language-links">
+      <a href="{{ site.baseurl }}/index.html" class="language-link {% if page.lang == 'en' %}active{% endif %}">English</a>
+      <a href="{{ site.baseurl }}/timeline_zh_cn.html" class="language-link {% if page.lang == 'zh-CN' %}active{% endif %}">简体中文</a>
+      <a href="{{ site.baseurl }}/timeline_zh_tw.html" class="language-link {% if page.lang == 'zh-TW' %}active{% endif %}">繁體中文</a>
+      <a href="{{ site.baseurl }}/timeline_ja.html" class="language-link {% if page.lang == 'ja' %}active{% endif %}">日本語</a>
+      <a href="{{ site.baseurl }}/timeline_ko.html" class="language-link {% if page.lang == 'ko' %}active{% endif %}">한국어</a>
+    </div>
+
+    {{ content }}
+  </div>
+</div>

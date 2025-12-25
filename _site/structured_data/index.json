@@ -1,0 +1,279 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Dongguk Exposed: Racialized Sexual Violence Timeline",
+    "description": "Interactive timeline documenting Dongguk University's decade of racialized sexual violence cases, institutional negligence, and alleged public funds fraud (2008-2025).",
+    "url": "https://dongguk.genderwatchdog.org/index.html",
+    "datePublished": "2025-04-05T12:00:00+09:00",
+    "dateModified": "2025-05-15T12:00:00+09:00",
+    "author": {
+      "@type": "Organization",
+      "name": "Gender Watchdog"
+    },
+    "mainEntity": {
+      "@type": "ItemList",
+      "name": "Dongguk University Racialized Sexual Violence Timeline",
+      "description": "Chronological documentation of racialized sexual violence incidents, institutional failures, and advocacy efforts at Dongguk University from 2008-2025",
+      "numberOfItems": 16,
+      "itemListOrder": "Ascending",
+      "itemListElement": [
+        {
+          "@type": "Event",
+          "name": "Shingate Scandal",
+          "startDate": "2008",
+          "description": "Major scandal involving institutional misrepresentation. The university leveraged US law while ignoring its values.",
+          "location": {
+            "@type": "Place",
+            "name": "Dongguk University, Seoul, South Korea"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/en/shingate.html"
+        },
+        {
+          "@type": "Event",
+          "name": "Sexual Assault by Media Communication Professor",
+          "startDate": "2015-11",
+          "description": "Professor sexually assaults graduate student at Dongguk University during drinking meeting.",
+          "location": {
+            "@type": "Place",
+            "name": "Dongguk University, Seoul, South Korea"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/en/2016_dongguk_prof_sexual_assault.html",
+          "keywords": "sexual assault, professor misconduct, racialized sexual violence"
+        },
+        {
+          "@type": "Event",
+          "name": "Media Communication Professor Sexual Assault Case",
+          "startDate": "2016-02",
+          "description": "Professor from Dongguk University's Media Communication Major prosecuted for sexually assaulting graduate student. University showed delayed response and reactive approach.",
+          "location": {
+            "@type": "Place",
+            "name": "Dongguk University, Seoul, South Korea"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/en/2016_dongguk_prof_sexual_assault.html",
+          "keywords": "sexual assault prosecution, institutional negligence"
+        },
+        {
+          "@type": "Event",
+          "name": "Professor Replacement Policy",
+          "startDate": "2016-08",
+          "description": "Dongguk University introduced provision allowing students who experienced verbal abuse or sexual violence to request professor change.",
+          "location": {
+            "@type": "Place",
+            "name": "Dongguk University, Seoul, South Korea"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/en/dongguk_exposed_2016_2025.html#1-2016-professor-replacement-policy",
+          "keywords": "policy reform, sexual violence prevention"
+        },
+        {
+          "@type": "Event",
+          "name": "Female Student Council Abolished",
+          "startDate": "2018",
+          "description": "At the height of the MeToo movement, Dongguk University abolished the Female Student Council, an important advocacy group for women.",
+          "location": {
+            "@type": "Place",
+            "name": "Dongguk University, Seoul, South Korea"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/en/dongguk_exposed_2016_2025.html#2-2018-metoo-movement-abolition-of-the-womens-student-council",
+          "keywords": "institutional regression, women's advocacy elimination"
+        },
+        {
+          "@type": "Event",
+          "name": "KWDI Sexual Violence In Arts Report",
+          "startDate": "2020",
+          "description": "Korean Women's Development Institute released comprehensive report on sexual violence in arts education programs, highlighting systemic issues including at Dongguk University.",
+          "location": {
+            "@type": "Place",
+            "name": "South Korea"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/en/kwdi_infographics.html",
+          "keywords": "research documentation, sexual violence statistics"
+        },
+        {
+          "@type": "Event",
+          "name": "Email Outreach Begins",
+          "startDate": "2025-03-08",
+          "endDate": "2025-03-09",
+          "description": "Initial emails regarding sexual violence concerns sent to Dongguk University with no response, beginning pattern of institutional silence.",
+          "location": {
+            "@type": "Place",
+            "name": "Dongguk University, Seoul, South Korea"
+          },
+          "keywords": "advocacy outreach, institutional silence"
+        },
+        {
+          "@type": "Event",
+          "name": "Faculty-wide Email Campaign",
+          "startDate": "2025-03-14",
+          "endDate": "2025-03-15",
+          "description": "All faculty members of Dongguk University's Digital Contents & Media Graduate School contacted with no responses, showing collective institutional silence.",
+          "location": {
+            "@type": "Place",
+            "name": "Dongguk University, Seoul, South Korea"
+          },
+          "keywords": "faculty outreach, collective silence"
+        },
+        {
+          "@type": "Event",
+          "name": "Blog Published: Dongguk Exposed",
+          "startDate": "2025-04-05",
+          "description": "Gender Watchdog blog published evidence of false partnership claims and decade-long pattern of sexual violence incidents and institutional neglect.",
+          "location": {
+            "@type": "Place",
+            "name": "Dongguk University, Seoul, South Korea"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/en/dongguk_exposed_2016_2025.html",
+          "keywords": "investigative documentation, partnership fraud, racialized sexual violence"
+        },
+        {
+          "@type": "Event",
+          "name": "Title IX Risk Escalation",
+          "startDate": "2025-04-05",
+          "endDate": "2025-04-06",
+          "description": "Dongguk University responded dismissively to Title IX risk concerns with 'For what purpose did you send the e-mail?', demonstrating failure to engage with safety concerns.",
+          "location": {
+            "@type": "Place",
+            "name": "Dongguk University, Seoul, South Korea"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/en/title_ix_risk_advisory.html",
+          "keywords": "Title IX violations, institutional dismissiveness"
+        },
+        {
+          "@type": "Event",
+          "name": "Partner Universities Respond",
+          "startDate": "2025-04-07",
+          "description": "Multiple universities listed as partners by Dongguk begin responding, with Canadian institution stating 'We do not have a student exchange agreement with Dongguk University.'",
+          "location": {
+            "@type": "Place",
+            "name": "International"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/en/fictional_partnerships_title_ix_dongguk.html",
+          "keywords": "partnership verification, institutional fraud"
+        },
+        {
+          "@type": "Event",
+          "name": "University Silence Continues",
+          "startDate": "2025-04-06",
+          "description": "Dongguk University refuses further engagement since April 5-6 emails, reinforcing concerns about institutional commitment to addressing racialized sexual violence risks.",
+          "location": {
+            "@type": "Organization",
+            "name": "Dongguk University"
+          },
+          "keywords": "institutional silence, accountability avoidance"
+        },
+        {
+          "@type": "Event",
+          "name": "Blog Exposé: False Partnerships & Alleged Taxpayer Fraud",
+          "startDate": "2025-05-02",
+          "description": "Gender Watchdog publishes conclusive evidence that Dongguk University continues falsely claiming partnerships with universities that officially denied relationships, raising taxpayer fraud questions.",
+          "location": {
+            "@type": "Organization",
+            "name": "Dongguk University"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/en/false_partners_alleged_taxpayer_fraud.html",
+          "keywords": "taxpayer fraud, false partnerships, institutional deception"
+        },
+        {
+          "@type": "Event",
+          "name": "25 Days of Government Silence",
+          "startDate": "2025-05-04",
+          "description": "25 days of complete silence from seven Korean government agencies after receiving evidence of partnership fraud, directly reinforcing structural conditions enabling racialized sexual violence.",
+          "location": {
+            "@type": "Place",
+            "name": "South Korea"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/en/05102025_korean_govt_slow.html",
+          "keywords": "government negligence, systemic enablement"
+        },
+        {
+          "@type": "Event",
+          "name": "IEQAS Certification Crisis Exposé",
+          "startDate": "2025-05-12",
+          "description": "Investigation expands to systemic racialized sexual violence issues across Korean higher education, revealing compromised IEQAS certification and all-male faculty enabling targeting of foreign women.",
+          "location": {
+            "@type": "Place",
+            "name": "South Korea"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/en/05152025_horizontal_ieqas.html",
+          "keywords": "systemic investigation, IEQAS certification, racialized targeting"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Gender Watchdog",
+    "url": "https://dongguk.genderwatchdog.org/",
+    "logo": "https://dongguk.genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_128x128.png",
+    "description": "Documenting and confronting racialized sexual violence in Korean universities and film industry. Demanding accountability from both academia and industry.",
+    "sameAs": [
+      "https://x.com/Gender_Watchdog",
+      "https://blog.genderwatchdog.org/",
+      "https://metookorea2025.genderwatchdog.org/",
+      "https://www.youtube.com/@GenderWatchdog"
+    ],
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "advocacy"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What does this timeline document?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "This interactive timeline documents Dongguk University's decade of racialized sexual violence cases, institutional negligence, and alleged public funds fraud from 2008-2025. Each timeline event links to detailed documentation with evidence of systematic targeting of foreign women, particularly from China and Southeast Asia, and institutional failures in response."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do I access detailed information about each timeline event?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Click on any timeline event to access comprehensive blog post documentation with evidence, analysis, and multilingual content. Each event includes links to full articles available in English, Korean, Japanese, and Chinese (Simplified and Traditional)."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What evidence supports claims of racialized sexual violence at Dongguk University?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Evidence includes: Korean Women's Development Institute research showing 81/100 sexual violence risk score for Dongguk's film program (highest among programs studied), documented professor sexual assault cases with delayed institutional response, abolition of Women's Student Council during MeToo movement, false partnership claims targeting foreign students, and systematic targeting patterns affecting foreign women disproportionately."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why focus specifically on 'racialized' sexual violence?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Korea ranks 5th worst globally for racism (US News & World Report). The evidence shows systematic targeting of foreign women based on racial stereotypes, use of false international partnerships to recruit vulnerable foreign students, and institutional barriers that specifically disadvantage foreign victims. This is not isolated sexual violence - it's racialized targeting that intersects racism with sexual violence."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What should international students know before studying in Korea?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "International students, particularly women, should: verify claimed university partnerships independently before enrolling, research sexual violence statistics and institutional response records, understand that some Korean universities may use false partnership claims as recruitment tools, connect with support organizations early, and recognize that institutional protection may be inadequate for foreign students facing racialized sexual violence."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Dongguk Exposed: Racialized Sexual Violence Timeline",
+    "url": "https://dongguk.genderwatchdog.org/",
+    "description": "Interactive timeline documenting systematic racialized sexual violence and institutional failures at Korean universities",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Gender Watchdog"
+    },
+    "inLanguage": ["en", "ko", "ja", "zh-CN", "zh-TW"]
+  }
+]

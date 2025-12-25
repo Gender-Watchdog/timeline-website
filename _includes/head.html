@@ -1,0 +1,34 @@
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ page.title }}</title>
+<meta name="description" content="{{ page.description }}">
+<meta name="keywords" content="{{ page.keywords | default: 'Dongguk University, academic fraud, sexual violence' }}">
+<meta property="og:title" content="{{ page.title }}">
+<meta property="og:description" content="{{ page.description }}">
+<meta property="og:type" content="{{ page.og_type | default: 'website' }}">
+{% if page.url == "/" %}
+<meta property="og:url" content="{{ site.url }}/index.html">
+<link rel="canonical" href="{{ site.url }}/index.html">
+{% else %}
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<link rel="canonical" href="{{ site.url }}{{ page.url }}">
+{% endif %}
+
+<!-- Fathom -->
+<script src="https://cdn.usefathom.com/script.js" data-site="UKSUATNV" defer></script>
+
+<!-- Favicons -->
+<link rel="icon" type="image/png" href="{{ site.baseurl }}/imgs/favicons/gender_watchdog_favicon_16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="{{ site.baseurl }}/imgs/favicons/gender_watchdog_favicon_32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="{{ site.baseurl }}/imgs/favicons/gender_watchdog_favicon_48x48.png" sizes="48x48">
+<link rel="icon" type="image/png" href="{{ site.baseurl }}/imgs/favicons/gender_watchdog_favicon_64x64.png" sizes="64x64">
+<link rel="icon" type="image/png" href="{{ site.baseurl }}/imgs/favicons/gender_watchdog_favicon_128x128.png" sizes="128x128">
+<link rel="apple-touch-icon" href="{{ site.baseurl }}/imgs/favicons/gender_watchdog_favicon_128x128.png">
+<link rel="shortcut icon" href="{{ site.baseurl }}/imgs/favicons/gender_watchdog_favicon_32x32.png">
+
+<!-- CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="{{ site.baseurl }}/css/timeline.css">
+{% if page.layout == 'post' %}
+<link rel="stylesheet" href="{{ site.baseurl }}/css/blog_posts.css">
+{% endif %}

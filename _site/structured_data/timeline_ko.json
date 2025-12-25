@@ -1,0 +1,279 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "동국대학교의 진실: 인종화된 성폭력 타임라인",
+    "description": "동국대학교의 10년간 인종화된 성폭력 사건, 제도적 방치, 공적 자금 사기 의혹을 기록하는 인터랙티브 타임라인(2008-2025).",
+    "url": "https://dongguk.genderwatchdog.org/timeline_ko.html",
+    "datePublished": "2025-04-05T12:00:00+09:00",
+    "dateModified": "2025-05-15T12:00:00+09:00",
+    "author": {
+      "@type": "Organization",
+      "name": "Gender Watchdog"
+    },
+    "mainEntity": {
+      "@type": "ItemList",
+      "name": "동국대학교 인종화된 성폭력 타임라인",
+      "description": "2008년부터 2025년까지 동국대학교의 인종화된 성폭력 사건, 제도적 실패, 옹호 활동의 연대기적 기록",
+      "numberOfItems": 16,
+      "itemListOrder": "Ascending",
+      "itemListElement": [
+        {
+          "@type": "Event",
+          "name": "신게이트 스캔들",
+          "startDate": "2008",
+          "description": "기관의 허위진술과 관련된 주요 스캔들. 대학은 미국법을 활용하면서도 그 가치를 무시했습니다.",
+          "location": {
+            "@type": "Place",
+            "name": "동국대학교(서울, 대한민국)"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/ko/shingate.html"
+        },
+        {
+          "@type": "Event",
+          "name": "미디어커뮤니케이션 교수 성폭력 사건",
+          "startDate": "2015-11",
+          "description": "교수가 술자리에서 동국대학교 대학원생을 성폭행했습니다.",
+          "location": {
+            "@type": "Place",
+            "name": "동국대학교(서울, 대한민국)"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/ko/2016_dongguk_prof_sexual_assault.html",
+          "keywords": "성폭행, 교수 비리, 인종화된 성폭력"
+        },
+        {
+          "@type": "Event",
+          "name": "미디어커뮤니케이션 교수 성폭력 사건 기소",
+          "startDate": "2016-02",
+          "description": "동국대학교 미디어커뮤니케이션 전공 교수가 대학원생 성폭행으로 기소됨. 대학은 지연된 대응과 반응적 접근법을 보였습니다.",
+          "location": {
+            "@type": "Place",
+            "name": "동국대학교(서울, 대한민국)"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/ko/2016_dongguk_prof_sexual_assault.html",
+          "keywords": "성폭력 기소, 제도적 방치"
+        },
+        {
+          "@type": "Event",
+          "name": "교수 교체 정책",
+          "startDate": "2016-08",
+          "description": "동국대학교가 언어적 학대나 성폭력을 경험한 학생들이 교수 변경을 요청할 수 있는 조항을 도입했습니다.",
+          "location": {
+            "@type": "Place",
+            "name": "동국대학교(서울, 대한민국)"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/ko/dongguk_exposed_2016_2025.html#1-2016-professor-replacement-policy",
+          "keywords": "정책 개혁, 성폭력 방지"
+        },
+        {
+          "@type": "Event",
+          "name": "여학생회 폐지",
+          "startDate": "2018",
+          "description": "MeToo 운동이 절정에 달했을 때, 동국대학교는 여성들을 위한 중요한 옹호 단체였던 여학생회를 폐지했습니다.",
+          "location": {
+            "@type": "Place",
+            "name": "동국대학교(서울, 대한민국)"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/ko/dongguk_exposed_2016_2025.html#2-2018-metoo-movement-abolition-of-the-womens-student-council",
+          "keywords": "제도적 퇴보, 여성 옹호 단체 제거"
+        },
+        {
+          "@type": "Event",
+          "name": "KWDI 예술 분야 성폭력 보고서",
+          "startDate": "2020",
+          "description": "한국여성정책연구원이 예술 교육 프로그램의 성폭력에 관한 종합 보고서를 발표, 동국대학교를 포함한 구조적 문제를 강조했습니다.",
+          "location": {
+            "@type": "Place",
+            "name": "대한민국"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/ko/kwdi_infographics.html",
+          "keywords": "연구 기록, 성폭력 통계"
+        },
+        {
+          "@type": "Event",
+          "name": "이메일 연락 시작",
+          "startDate": "2025-03-08",
+          "endDate": "2025-03-09",
+          "description": "성폭력 방지 문제에 관한 초기 이메일이 동국대학교에 발송되었으나 응답이 없어 기관의 침묵 패턴이 시작되었습니다.",
+          "location": {
+            "@type": "Place",
+            "name": "동국대학교(서울, 대한민국)"
+          },
+          "keywords": "옹호 활동, 기관의 침묵"
+        },
+        {
+          "@type": "Event",
+          "name": "교수진 전체 이메일 캠페인",
+          "startDate": "2025-03-14",
+          "endDate": "2025-03-15",
+          "description": "동국대학교 디지털 콘텐츠 및 미디어 대학원의 모든 교수진에게 연락했으나 응답이 없어 집단적 기관 침묵을 보여주었습니다.",
+          "location": {
+            "@type": "Place",
+            "name": "동국대학교(서울, 대한민국)"
+          },
+          "keywords": "교수진 접촉, 집단적 침묵"
+        },
+        {
+          "@type": "Event",
+          "name": "블로그 발행: 동국대학교 폭로",
+          "startDate": "2025-04-05",
+          "description": "Gender Watchdog 블로그가 허위 파트너십 주장과 10년간의 성폭력 사건 및 제도적 방치 패턴의 증거를 발표했습니다.",
+          "location": {
+            "@type": "Organization",
+            "name": "동국대학교"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/ko/dongguk_exposed_2016_2025.html",
+          "keywords": "탐사 기록, 파트너십 사기, 인종화된 성폭력"
+        },
+        {
+          "@type": "Event",
+          "name": "Title IX 위험 확대",
+          "startDate": "2025-04-05",
+          "endDate": "2025-04-06",
+          "description": "동국대학교가 Title IX 위험 우려에 '이메일을 보낸 목적이 무엇인가요?'라고 무례하게 응답하여 성폭력 우려에 대응하지 못함을 보여주었습니다.",
+          "location": {
+            "@type": "Organization",
+            "name": "동국대학교"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/ko/title_ix_risk_advisory.html",
+          "keywords": "Title IX 위반, 기관의 무례함"
+        },
+        {
+          "@type": "Event",
+          "name": "협력 대학들의 응답",
+          "startDate": "2025-04-07",
+          "description": "동국대학교가 파트너로 나열한 여러 대학들이 응답하기 시작했으며, 캐나다 기관은 '우리는 동국대학교와 학생 교류 협정을 맺고 있지 않습니다'라고 밝혔습니다.",
+          "location": {
+            "@type": "Place",
+            "name": "국제"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/ko/fictional_partnerships_title_ix_dongguk.html",
+          "keywords": "파트너십 검증, 기관 사기"
+        },
+        {
+          "@type": "Event",
+          "name": "대학의 계속되는 침묵",
+          "startDate": "2025-04-06",
+          "description": "동국대학교가 4월 5-6일 이메일 이후 더 이상의 소통을 거부하여 인종화된 성폭력 위험 해결에 대한 기관의 의지 부족을 강화했습니다.",
+          "location": {
+            "@type": "Organization",
+            "name": "동국대학교"
+          },
+          "keywords": "기관의 침묵, 책임 회피"
+        },
+        {
+          "@type": "Event",
+          "name": "블로그 폭로: 허위 파트너십 및 의혹된 세금 사기",
+          "startDate": "2025-05-02",
+          "description": "Gender Watchdog이 동국대학교가 공식적으로 관계를 부인한 대학들과의 파트너십을 계속 허위로 주장하고 있다는 결정적 증거를 발표, 세금 사기 의혹을 제기했습니다.",
+          "location": {
+            "@type": "Organization",
+            "name": "동국대학교"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/ko/false_partners_alleged_taxpayer_fraud.html",
+          "keywords": "세금 사기, 허위 파트너십, 기관 기만"
+        },
+        {
+          "@type": "Event",
+          "name": "25일간의 정부 침묵",
+          "startDate": "2025-05-04",
+          "description": "7개 한국 정부 기관이 파트너십 사기 증거를 받은 후 25일간 완전히 침묵하여 인종화된 성폭력을 가능하게 하는 구조적 조건을 직접 강화했습니다.",
+          "location": {
+            "@type": "Place",
+            "name": "대한민국"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/ko/05102025_korean_govt_slow.html",
+          "keywords": "정부 방치, 체계적 조장"
+        },
+        {
+          "@type": "Event",
+          "name": "IEQAS 인증 위기 폭로",
+          "startDate": "2025-05-12",
+          "description": "조사가 한국 고등교육의 체계적 인종화된 성폭력 문제로 확대되어, 손상된 IEQAS 인증과 외국 여성 타겟팅을 가능하게 하는 남성 전용 교수진이 드러났습니다.",
+          "location": {
+            "@type": "Country",
+            "name": "대한민국"
+          },
+          "url": "https://dongguk.genderwatchdog.org/blog_posts/ko/05152025_ko_horizontal_ieqas.html",
+          "keywords": "체계적 조사, IEQAS 인증, 인종화된 타겟팅"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Gender Watchdog",
+    "url": "https://dongguk.genderwatchdog.org/",
+    "logo": "https://dongguk.genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_128x128.png",
+    "description": "한국 대학과 영화 산업에서의 인종화된 성폭력을 기록하고 대항합니다. 학계와 산업 모두에게 책임을 요구합니다.",
+    "sameAs": [
+      "https://x.com/Gender_Watchdog",
+      "https://blog.genderwatchdog.org/",
+      "https://metookorea2025.genderwatchdog.org/",
+      "https://www.youtube.com/@GenderWatchdog"
+    ],
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "advocacy"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "이 타임라인은 무엇을 기록하나요?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "이 인터랙티브 타임라인은 2008년부터 2025년까지 동국대학교의 10년간 인종화된 성폭력 사건, 제도적 방치, 공적 자금 사기 의혹을 기록합니다. 각 타임라인 이벤트는 특히 중국과 동남아시아 출신 외국 여성에 대한 체계적 타겟팅과 제도적 대응 실패의 증거가 담긴 상세한 기록으로 연결됩니다."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "각 타임라인 이벤트에 대한 자세한 정보는 어떻게 확인할 수 있나요?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "타임라인 이벤트를 클릭하면 증거, 분석, 다국어 콘텐츠가 포함된 종합적인 블로그 포스트 기록에 접근할 수 있습니다. 각 이벤트는 한국어, 영어, 일본어, 중국어(간체 및 번체)로 제공되는 전체 기사 링크를 포함합니다."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "동국대학교의 인종화된 성폭력 주장을 뒷받침하는 증거는 무엇인가요?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "증거에는 다음이 포함됩니다: 동국대학교 영화과가 81/100의 성폭력 위험 점수(연구된 프로그램 중 최고)를 보인 한국여성정책연구원 연구, 지연된 기관 대응을 보인 교수 성폭력 사건 기록, MeToo 운동 중 여학생회 폐지, 외국 학생을 타겟으로 한 허위 파트너십 주장, 외국 여성에게 불균형적으로 영향을 미치는 체계적 타겟팅 패턴."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "왜 특별히 '인종화된' 성폭력에 초점을 맞추나요?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "한국은 전 세계적으로 인종차별에서 5위로 최악의 순위를 기록했습니다(US News & World Report). 증거는 인종적 고정관념에 기반한 외국 여성에 대한 체계적 타겟팅, 취약한 외국 학생을 모집하기 위한 허위 국제 파트너십 사용, 외국 피해자를 특별히 불리하게 만드는 제도적 장벽을 보여줍니다. 이는 고립된 성폭력이 아닙니다 - 인종차별과 성폭력이 교차하는 인종화된 타겟팅입니다."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "한국 유학을 고려하는 국제 학생들이 알아야 할 것은 무엇인가요?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "국제 학생, 특히 여성들은: 입학 전 주장된 대학 파트너십을 독립적으로 확인하고, 성폭력 통계와 기관 대응 기록을 조사하며, 일부 한국 대학이 허위 파트너십 주장을 모집 도구로 사용할 수 있음을 이해하고, 지원 조직과 조기에 연결하며, 인종화된 성폭력에 직면한 외국 학생에 대한 기관 보호가 부적절할 수 있음을 인식해야 합니다."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "동국대학교의 진실: 인종화된 성폭력 타임라인",
+    "url": "https://dongguk.genderwatchdog.org/timeline_ko.html",
+    "description": "한국 대학의 체계적 인종화된 성폭력과 제도적 실패를 기록하는 인터랙티브 타임라인",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Gender Watchdog"
+    },
+    "inLanguage": ["ko", "en", "ja", "zh-CN", "zh-TW"]
+  }
+]

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: 'en' }}">
+<head>
+  {% include head.html %}
+  <style>
+    /* Page layout styles */
+    html, body {
+      height: 100%;
+    }
+    body {
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+    .content {
+      flex: 1 0 auto;
+      display: flex;
+      flex-direction: column;
+    }
+  </style>
+</head>
+<body>
+  <!-- Main Content -->
+  <div class="content">
+    {{ content }}
+  </div>
+  
+  {% include footer.html %}
+  {% include scripts.html %}
+</body>
+</html>
