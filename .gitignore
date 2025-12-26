@@ -1,0 +1,29 @@
+# Jekyll build artifacts
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Python virtual environment and cache
+.venv/
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editors and AI Tools
+.vscode/
+.cursorrules
+.cursorignore
+copilot-instructions.md
+
+# Project specific folders (Drafts & Internal Docs)
+docs/
+drafts/
+scripts/
+python/
+
+# Internal Maintenance Scripts
+test_*.py
