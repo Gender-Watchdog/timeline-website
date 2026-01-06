@@ -27,3 +27,6 @@ python/
 
 # Internal Maintenance Scripts
 test_*.py
+vendor/
+.venv/
+Gemfile.lock
