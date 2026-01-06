@@ -4,19 +4,33 @@
   <img src="imgs/gender-watchdog-icon-04142025.png" alt="Gender Watchdog Icon" width="200">
 </div>
 
-## License
+## Legal & Licensing
 
-This project is released under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/). This means:
+### Truthful Posture Statement
+This project is an independently funded initiative operating as a **Pre-incorporation Social Enterprise**. It focuses on "civic tech" and "AI-assisted whistleblowing" to promote transparency in university administration. 
 
-- You are free to share and adapt this work for non-commercial purposes
-- You must give appropriate credit and provide a link to the license
-- You must distribute your contributions under the same license
-- You may not use the material for commercial purposes
-- Misrepresentation or use in contexts that minimize or trivialize sexual violence is expressly prohibited
+**Disclaimer:** We are **NOT** a non-profit organization (NGO/501c3) and do not solicit tax-exempt donations. We are actively building tools for social good but operate without formal organizational incorporation at this stage.
 
-The Gender Watchdog logo, identity, and associated materials are available for use in advocacy materials, reporting, protest actions, and educational contexts relating to sexual violence in film and academic institutions.
+### Dual-License Structure
+This project utilizes a split licensing model to balance open-source collaboration with the protection of sensitive investigative findings.
 
-We believe these important issues should be freely accessible for legitimate advocacy while protecting against misuse.
+1.  **Code (Apache 2.0):** 
+    *   **Applies to:** Python scripts, HTML/JS, CSS, and build workflows.
+    *   **Terms:** Open for general use, modification, and distribution (including commercial), provided proper attribution is given. See `LICENSE`.
+
+2.  **Content (CC BY-NC-ND 4.0):**
+    *   **Applies to:** Investigative reports, datasets, screenshots, and Markdown files.
+    *   **Terms:**
+        *   **Attribution (BY):** You must credit Gender Watchdog.
+        *   **Non-Commercial (NC):** Material cannot be sold or used for commercial gain.
+        *   **No Derivatives (ND):** You may not alter the investigative findings or reports. This ensures the integrity of our conclusions is maintained.
+    *   See `LICENSE-CONTENT`.
+
+### Institutional Independence & Partner Liability
+> "While we acknowledge the moral support of partners like End Rape On Campus (EROC), this project is operationally independent. Supporters provide no funding, editorial direction, or oversight, and bear no liability for findings or conclusions presented here."
+
+### Standard Disclaimer
+> "This project conducts independent research and analysis using AI-assisted methodology. It does not provide legal advice, victim services, or official accreditation judgments. All findings are based on publicly available information and documented correspondence. Users are encouraged to independently verify all data."
 
 ## How to Access This Repository
 
