@@ -3,10 +3,10 @@
     "@context": "https://schema.org",
     "@type": "WebPage",
     "name": "东国大学真相：种族化性暴力时间线",
-    "description": "记录东国大学十年间种族化性暴力事件、制度性失职及公款欺诈指控的互动时间线（2008-2025）。",
+    "description": "记录东国大学十年间种族化性暴力事件、制度性失职及公款欺诈指控的互动时间线（2008-2026）。",
     "url": "https://dongguk.genderwatchdog.org/timeline_zh_cn.html",
     "datePublished": "2025-04-05T12:00:00+09:00",
-    "dateModified": "2025-05-15T12:00:00+09:00",
+    "dateModified": "2026-04-26T12:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "Gender Watchdog"
@@ -15,8 +15,8 @@
     "mainEntity": {
       "@type": "ItemList",
       "name": "东国大学种族化性暴力时间线",
-      "description": "2008-2025年东国大学种族化性暴力事件、制度性失败和倡导努力的年代记录",
-      "numberOfItems": 16,
+      "description": "2008-2026年东国大学种族化性暴力事件、制度性失败和倡导努力的年代记录",
+      "numberOfItems": 30,
       "itemListOrder": "Ascending",
       "itemListElement": [
         {
@@ -92,6 +92,18 @@
         },
         {
           "@type": "Event",
+          "name": "不正招标罪犯就任第11任院长",
+          "startDate": "2023-03-02",
+          "description": "Sidus FNH共同创始人车承载因公款教育资金招标谈判被判有罪6年后，就任东国大学数字影像内容研究生院第11任院长。联合新闻确认。",
+          "location": {
+            "@type": "Place",
+            "name": "东国大学（韩国首尔）"
+          },
+          "url": "https://blog.genderwatchdog.org/from-indictment-to-deans-office-how-dongguk-university-rewarded-a-criminal-conviction-with-promotions/",
+          "keywords": "制度腐败, 罪犯晋升, 招标谈判"
+        },
+        {
+          "@type": "Event",
           "name": "电子邮件联系开始",
           "startDate": "2025-03-08",
           "endDate": "2025-03-09",
@@ -131,7 +143,7 @@
           "name": "Title IX风险升级",
           "startDate": "2025-04-05",
           "endDate": "2025-04-06",
-          "description": "东国大学对Title IX风险关切无礼回应："您的电子邮件目的是什么？"，显示未能有意义地回应安全关切。",
+          "description": "东国大学对Title IX风险关切无礼回应：\"您的电子邮件目的是什么？\"，显示未能有意义地回应安全关切。",
           "location": {
             "@type": "Organization",
             "name": "东国大学"
@@ -143,7 +155,7 @@
           "@type": "Event",
           "name": "合作大学回应",
           "startDate": "2025-04-07",
-          "description": "东国大学列为合作伙伴的多所大学开始回应，加拿大机构表示"我们学校与东国大学没有学生交流协议"。",
+          "description": "东国大学列为合作伙伴的多所大学开始回应，加拿大机构表示\"\u6211们学校与东国大学没有学生交流协议\"\u3002",
           "location": {
             "@type": "Place",
             "name": "国际"
@@ -197,6 +209,175 @@
           },
           "url": "https://dongguk.genderwatchdog.org/blog_posts/zh_ch/05152025_zh_ch_horizontal_ieqas.html",
           "keywords": "系统性调查, IEQAS认证, 种族化针对"
+        },
+        {
+          "@type": "Event",
+          "name": "小红书疯传: 被害者揭露性暴力危机",
+          "startDate": "2025-05-24",
+          "description": "帖子在中国最大社交平台获得3,256次浏览和85条评论。多位被害者证言显现。",
+          "location": {
+            "@type": "Place",
+            "name": "东国大学（韩国首尔）"
+          },
+          "url": "https://blog.genderwatchdog.org/viral-xiaohongshu-post-exposes-dongguk-university-sexual-violence-crisis-victims-break-their-silence/",
+          "keywords": "病毒式传播, 被害者证言, 中国, 社交媒体"
+        },
+        {
+          "@type": "Event",
+          "name": "Sidus FNH法律威胁弄巧成拙",
+          "startDate": "2025-05-27",
+          "description": "律师事务所要求24小时内删除——直接与东国大学自身官方网站档案矛盾。",
+          "location": {
+            "@type": "Place",
+            "name": "东国大学（韩国首尔）"
+          },
+          "url": "https://blog.genderwatchdog.org/sidus-legal-threat-backfires-evidence-of-corporate-panic-and-institutional-cover-up-at-dongguk-university-zh-cn/",
+          "keywords": "法律威胁, 企业恐慌, 制度性隐瞒"
+        },
+        {
+          "@type": "Event",
+          "name": "DC Inside大规模审查: 20多所高校帖子同时被删",
+          "startDate": "2025-07-06",
+          "description": "发布LGBT军事暴力内容后12-15小时内20所以上高校帖子被同时删除——浏览量归零，错误信息相同。",
+          "location": {
+            "@type": "Place",
+            "name": "韩国"
+          },
+          "url": "https://blog.genderwatchdog.org/korean-government-systematic-censorship-of-lgbt-military-content-evidence-of-institutional-suppression-zh-cn/",
+          "keywords": "审查, LGBT打压, 政府干预"
+        },
+        {
+          "@type": "Event",
+          "name": "Visual Ping实时捕捉DIC象征性包容",
+          "startDate": "2025-07-24",
+          "description": "自动化监控追踪到女教师李数贤档案被静悄强化——英文网站上仍然不可见。",
+          "location": {
+            "@type": "Place",
+            "name": "东国大学（韩国首尔）"
+          },
+          "url": "https://blog.genderwatchdog.org/visual-ping-catches-dongguk-university-in-real-time-tokenism-the-loyal-insider-strategy-exposed/",
+          "keywords": "象征性包容, 性别平等欺诈, 监控"
+        },
+        {
+          "@type": "Event",
+          "name": "车承载从韩语教师页消失——幽灵院长策略曝光",
+          "startDate": "2025-09-01",
+          "description": "不正招标罪犯前院长从韩语DIC页面被静悄删除，但英语页面上仍然保留。",
+          "location": {
+            "@type": "Place",
+            "name": "东国大学（韩国首尔）"
+          },
+          "url": "https://blog.genderwatchdog.org/from-indictment-to-deans-office-how-dongguk-university-rewarded-a-criminal-conviction-with-promotions/",
+          "keywords": "幽灵院长, 选择性可见, 制度性欺骗"
+        },
+        {
+          "@type": "Event",
+          "name": "F教授性暴力事件",
+          "startDate": "2025-11-24",
+          "description": "F教授相关新性暴力事件曝光长达4个月的制度性沉默和人权中心失败。",
+          "location": {
+            "@type": "Place",
+            "name": "东国大学（韩国首尔）"
+          },
+          "url": "https://blog.genderwatchdog.org/new-sexual-violence-case-at-dongguk-university-professor-f-abuse-and-institutional-silence/",
+          "keywords": "性暴力, 制度性沉默, 人权中心失败"
+        },
+        {
+          "@type": "Event",
+          "name": "第二所虚假合作: UBC信息公开确认",
+          "startDate": "2025-12-18",
+          "description": "UBC全年无法提交任何与东国的通信记录后，BC省信息局介入。确认不存在有效机构协议。",
+          "location": {
+            "@type": "Place",
+            "name": "英属哥伦比亚大学，加拿大"
+          },
+          "url": "https://blog.genderwatchdog.org/global-fraud-alert-3-confirmed-false-partnerships-expose-dongguk-universitys-house-of-cards/",
+          "keywords": "信息公开确认, 虚假合作, UBC"
+        },
+        {
+          "@type": "Event",
+          "name": "南安普顿大学: 第三所虚假合作",
+          "startDate": "2025-12-23",
+          "description": "英国大学未将东国列入官方全球合作伙伴地图。确认不存在合作协议。",
+          "location": {
+            "@type": "Place",
+            "name": "南安普顿大学，英国"
+          },
+          "url": "https://blog.genderwatchdog.org/global-fraud-alert-3-confirmed-false-partnerships-expose-dongguk-universitys-house-of-cards/",
+          "keywords": "虚假合作, 南安普顿, 信息公开"
+        },
+        {
+          "@type": "Event",
+          "name": "34个虚假合作伙伴: 语义欺诈曝光",
+          "startDate": "2025-12-31",
+          "description": "全面审计命名4种欺诈模式。大洋洲85%失败率。UCLA、UCSD、曼彻斯特处于确认拒绝机构之列。",
+          "location": {
+            "@type": "Place",
+            "name": "国际"
+          },
+          "url": "https://blog.genderwatchdog.org/semantic-fraud-how-dongguk-universitys-global-network-collapsed-34-fake-partners-exposed-zh-cn/",
+          "keywords": "语义欺诈, 虚假合作, 全球审计"
+        },
+        {
+          "@type": "Event",
+          "name": "恐慌性删除: 删除UBC、恢复TMU已废弃名称",
+          "startDate": "2026-01-19",
+          "description": "东国大学从官方全球合作伙伴页面静悴删去UBC，并将多伦多里都会大学恢复为已废弃名称\"\u8d56亚森\"\u2014\u2014Visual Ping实时捕获。",
+          "location": {
+            "@type": "Place",
+            "name": "东国大学（韩国首尔）"
+          },
+          "url": "https://blog.genderwatchdog.org/panic-scrub-dongguk-deletes-ubc-reverts-to-dead-names-zh-cn/",
+          "keywords": "恐慌性删除, 证据消灭, Visual Ping"
+        },
+        {
+          "@type": "Event",
+          "name": "日语专业教授在日本因性侵被捕",
+          "startDate": "2026-01-28",
+          "description": "东国大学日语日本学科S教授因非自愿猥亵嫌疑被冈山警察逮捕。回国后继续授招3门课。冈山检察院2月作出不起诉决定。",
+          "location": {
+            "@type": "Place",
+            "name": "冈山，日本 / 东国大学（韩国首尔）"
+          },
+          "url": "https://blog.genderwatchdog.org/dongguk-japanese-studies-professor-sexual-violence-second-department-2026-zh-cn/",
+          "keywords": "性暴力逮捕, 日本, 教授不当行为, 制度性不作为"
+        },
+        {
+          "@type": "Event",
+          "name": "东国大学提交形式GEP; 地平线欧洲韩国11所机构密实无展说",
+          "startDate": "2026-03-18",
+          "description": "GEP工作组在曝34个虚假合作伙伴疯传的同月成立。4项标准均未达标。",
+          "location": {
+            "@type": "Place",
+            "name": "东国大学（韩国首尔）"
+          },
+          "url": "https://blog.genderwatchdog.org/gep-theatre-dongguk-chung-ang-horizon-europe-unguarded-gate/",
+          "keywords": "GEP剧场, 地平线欧洲, 性别平等计划"
+        },
+        {
+          "@type": "Event",
+          "name": "日语专业学生打破沉默: 公开信记录持续性暴力",
+          "startDate": "2026-03-23",
+          "endDate": "2026-03-24",
+          "description": "学生会发表公开信，详述S教授的跟踪、非自愿接触及成绩要挟。韩国全国媒体就日本被捕与欧盟-韩国研究峰会同日报道。",
+          "location": {
+            "@type": "Place",
+            "name": "东国大学（韩国首尔）"
+          },
+          "url": "https://blog.genderwatchdog.org/dongguk-japanese-studies-professor-sexual-violence-second-department-2026-zh-cn/",
+          "keywords": "学生公开信, 持续性骚扰, 全国媒体"
+        },
+        {
+          "@type": "Event",
+          "name": "影视学院教师清除: 欧盟峰会8天后删去BK21认证者及女研究员",
+          "startDate": "2026-04-01",
+          "description": "Visual Ping捕获2名女性助理教授同时删除，包括唯一BK21认证保持者李数贤。终身定局教员100%为男性。",
+          "location": {
+            "@type": "Place",
+            "name": "东国大学（韩国首尔）"
+          },
+          "url": "https://blog.genderwatchdog.org/dongguk-faculty-purge-paper-faculty-eu-cleanup-april-2026-zh-cn/",
+          "keywords": "教师清除, BK21, 欧盟合规, 性别平等欺诈"
         }
       ]
     }
@@ -249,7 +430,7 @@
       },
       {
         "@type": "Question",
-        "name": "为什么特别关注"种族化"性暴力？",
+        "name": "为什么特别关注\"种族化\"性暴力？",
         "acceptedAnswer": {
           "@type": "Answer",
           "text": "韩国在全球种族主义排名中位列第5差（美国新闻与世界报道）。证据显示基于种族刻板印象的系统性针对外国女性，使用虚假国际合作关系招募脆弱的外国学生，以及特别不利于外国受害者的制度性障碍。这不是孤立的性暴力——这是将种族主义与性暴力交织的种族化针对。"

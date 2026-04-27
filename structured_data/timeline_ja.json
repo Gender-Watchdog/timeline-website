@@ -3,10 +3,10 @@
     "@context": "https://schema.org",
     "@type": "WebPage",
     "name": "東国大学の真実：10年間の人種化された性暴力危機",
-    "description": "東国大学における10年にわたる人種化された性暴力事件、制度的怠慢、および公的資金詐欺疑惑のインタラクティブ・タイムライン（2008-2025）。",
+    "description": "東国大学における10年にわたる人種化された性暴力事件、制度的怠慢、および公的資金詐欺疑惑のインタラクティブ・タイムライン（2008-2026）。",
     "url": "https://dongguk.genderwatchdog.org/timeline_ja.html",
     "datePublished": "2025-04-05T12:00:00+09:00",
-    "dateModified": "2025-05-15T12:00:00+09:00",
+    "dateModified": "2026-04-26T12:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "Gender Watchdog"
@@ -15,8 +15,8 @@
     "mainEntity": {
       "@type": "ItemList",
       "name": "東国大学の人種化された性暴力タイムライン",
-      "description": "2008年から2025年までの東国大学における人種化された性暴力事件、制度的失敗、および支援活動の年代記録",
-      "numberOfItems": 16,
+      "description": "2008年から2026年までの東国大学における人種化された性暴力事件、制度的失敗、および支援活動の年代記録",
+      "numberOfItems": 30,
       "itemListOrder": "Ascending",
       "itemListElement": [
         {
@@ -197,6 +197,187 @@
           },
           "url": "https://dongguk.genderwatchdog.org/blog_posts/ja/05152025_ja_horizontal_ieqas.html",
           "keywords": "体系的調査, IEQAS認証, 人種化されたターゲティング"
+        },
+        {
+          "@type": "Event",
+          "name": "不正入札有罪者が第11代学長に就任",
+          "startDate": "2023-03-02",
+          "description": "Sidus FNH共同創設者の車承載氏が、公的教育資金入札談合で有罪判決を受けてから6年後、東国大学デジタル映像コンテンツ大学院の第11代学長に就任。聯合ニュースが確認。",
+          "location": {
+            "@type": "Place",
+            "name": "東国大学（ソウル、韓国）"
+          },
+          "url": "https://blog.genderwatchdog.org/from-indictment-to-deans-office-how-dongguk-university-rewarded-a-criminal-conviction-with-promotions/",
+          "keywords": "機構的腐敗, 犯罪者の昇進, 入札談合"
+        },
+        {
+          "@type": "Event",
+          "name": "小紅書バイラル：被害者が東国大学性暴力危機を告発",
+          "startDate": "2025-05-24",
+          "description": "中国最大のソーシャルプラットフォームで3256回の閲覧と85件のコメントを獲得。複数の被害者証言が浮上。",
+          "location": {
+            "@type": "Place",
+            "name": "東国大学（ソウル、韓国）"
+          },
+          "url": "https://blog.genderwatchdog.org/viral-xiaohongshu-post-exposes-dongguk-university-sexual-violence-crisis-victims-break-their-silence/",
+          "keywords": "バイラルキャンペーン, 被害者証言, 中国, ソーシャルメディア"
+        },
+        {
+          "@type": "Event",
+          "name": "Sidus FNHの法的脅迫が裏目に",
+          "startDate": "2025-05-27",
+          "description": "信原法律事務所が24時間以内の撤回を要求——東国大学自身の公式アーカイブサイトと直接矛盾。",
+          "location": {
+            "@type": "Place",
+            "name": "東国大学（ソウル、韓国）"
+          },
+          "url": "https://blog.genderwatchdog.org/sidus-legal-threat-backfires-evidence-of-corporate-panic-and-institutional-cover-up-at-dongguk-university/",
+          "keywords": "法的脅迫, 企業パニック, 機構的隠蔽"
+        },
+        {
+          "@type": "Event",
+          "name": "DCインサイド大規模検閲：20以上の大学投稿が同時削除",
+          "startDate": "2025-07-06",
+          "description": "LGBT軍事暴力コンテンツを投稿してから12〜15時間以内に、20以上の大学ギャラリーのすべての投稿が同時に削除——閲覧数ゼロ、同一エラーメッセージ。",
+          "location": {
+            "@type": "Place",
+            "name": "韓国"
+          },
+          "url": "https://blog.genderwatchdog.org/korean-government-systematic-censorship-of-lgbt-military-content-evidence-of-institutional-suppression/",
+          "keywords": "検閲, LGBT弾圧, 政府干渉"
+        },
+        {
+          "@type": "Event",
+          "name": "ビジュアルピングがDICのリアルタイムトークニズムを捕捉",
+          "startDate": "2025-07-24",
+          "description": "自動ビジュアルピング監視が女性教員李貞鉉氏のプロフィールの静かな強化を捕捉——英語サイトでは依然として不可視。",
+          "location": {
+            "@type": "Place",
+            "name": "東国大学（ソウル、韓国）"
+          },
+          "url": "https://blog.genderwatchdog.org/visual-ping-catches-dongguk-university-in-real-time-tokenism-the-loyal-insider-strategy-exposed/",
+          "keywords": "トークニズム, ジェンダー平等詐欺, 監視"
+        },
+        {
+          "@type": "Event",
+          "name": "車承載が韓国語教員ページから消える——ゴーストディーン戦略が露呈",
+          "startDate": "2025-09-01",
+          "description": "不正入札有罪者で元学長の車承載氏が韓国語DICページから静かに削除される一方、英語ページには残存。",
+          "location": {
+            "@type": "Place",
+            "name": "東国大学（ソウル、韓国）"
+          },
+          "url": "https://blog.genderwatchdog.org/from-indictment-to-deans-office-how-dongguk-university-rewarded-a-criminal-conviction-with-promotions/",
+          "keywords": "ゴーストディーン, 選択的可視性, 機構的欺瞞"
+        },
+        {
+          "@type": "Event",
+          "name": "F教授性暴力事件",
+          "startDate": "2025-11-24",
+          "description": "F教授に関わる新たな性暴力スキャンダルが4ヶ月の機構的沈黙と人権センターの失敗を露呈。",
+          "location": {
+            "@type": "Place",
+            "name": "東国大学（ソウル、韓国）"
+          },
+          "url": "https://blog.genderwatchdog.org/new-sexual-violence-case-at-dongguk-university-professor-f-abuse-and-institutional-silence/",
+          "keywords": "性暴力, 機構的沈黙, 人権センターの失敗"
+        },
+        {
+          "@type": "Event",
+          "name": "第2の虚偽パートナー：UBC情報公開確認",
+          "startDate": "2025-12-18",
+          "description": "UBCが学年を通じて東国大学との通信を一切提出できなかった後、BCプライバシー監察官が介入。有効な機構協定が存在しないことを確認。",
+          "location": {
+            "@type": "Place",
+            "name": "ブリティッシュコロンビア大学、カナダ"
+          },
+          "url": "https://blog.genderwatchdog.org/global-fraud-alert-3-confirmed-false-partnerships-expose-dongguk-universitys-house-of-cards/",
+          "keywords": "情報公開確認, 虚偽パートナー, UBC"
+        },
+        {
+          "@type": "Event",
+          "name": "サウサンプトン大学：第3の虚偽パートナー",
+          "startDate": "2025-12-23",
+          "description": "英国大学は自校の公式グローバルパートナーマップに東国大学を掲載していない。協定が存在しないことを確認。",
+          "location": {
+            "@type": "Place",
+            "name": "サウサンプトン大学、英国"
+          },
+          "url": "https://blog.genderwatchdog.org/global-fraud-alert-3-confirmed-false-partnerships-expose-dongguk-universitys-house-of-cards/",
+          "keywords": "虚偽パートナー, サウサンプトン, 情報公開"
+        },
+        {
+          "@type": "Event",
+          "name": "34の偽パートナー：意味論的詐欺の告発",
+          "startDate": "2025-12-31",
+          "description": "包括的監査が4つの詐欺パターンを命名。オセアニアで85%の失敗率。UCLA、UCSD、マンチェスターが確認された拒否機関に含まれる。",
+          "location": {
+            "@type": "Place",
+            "name": "国際"
+          },
+          "url": "https://blog.genderwatchdog.org/semantic-fraud-how-dongguk-universitys-global-network-collapsed-34-fake-partners-exposed/",
+          "keywords": "意味論的詐欺, 偽パートナー, グローバル監査"
+        },
+        {
+          "@type": "Event",
+          "name": "パニック削除：UBCを削除、TMUを旧名に戻す",
+          "startDate": "2026-01-19",
+          "description": "東国大学が公式グローバルパートナーページからUBCを静かに削除し、トロントメトロポリタン大学を廃止名「ライアーソン」に戻す——両変更がビジュアルピングでリアルタイム捕捉。",
+          "location": {
+            "@type": "Place",
+            "name": "東国大学（ソウル、韓国）"
+          },
+          "url": "https://blog.genderwatchdog.org/panic-scrub-dongguk-deletes-ubc-reverts-to-dead-names/",
+          "keywords": "パニック削除, 証拠隠滅, ビジュアルピング"
+        },
+        {
+          "@type": "Event",
+          "name": "日本語専攻教授が日本で性的暴行容疑で逮捕",
+          "startDate": "2026-01-28",
+          "description": "東国大学日本語日本学科のS教授が岡山警察に不同意猥褻容疑で逮捕。帰国後、全3科目の授業を継続。岡山地検は2月に不起訴処分。",
+          "location": {
+            "@type": "Place",
+            "name": "岡山、日本 / 東国大学（ソウル、韓国）"
+          },
+          "url": "https://blog.genderwatchdog.org/dongguk-japanese-studies-professor-sexual-violence-second-department-2026-ja/",
+          "keywords": "性的暴行逮捕, 日本, 教授不正, 機構的不作為"
+        },
+        {
+          "@type": "Event",
+          "name": "東国大学が形式的GEPを提出：韓国ホライズン・ヨーロッパ機関11校はゼロ",
+          "startDate": "2026-03-18",
+          "description": "GEPタスクフォースは34偽パートナー告発がバイラルになった月に設立。記録されたイベントへの是正措置なし等4点で失格。",
+          "location": {
+            "@type": "Place",
+            "name": "東国大学（ソウル、韓国）"
+          },
+          "url": "https://blog.genderwatchdog.org/gep-theatre-dongguk-chung-ang-horizon-europe-unguarded-gate/",
+          "keywords": "GEP劇場, ホライズン・ヨーロッパ, ジェンダー平等計画"
+        },
+        {
+          "@type": "Event",
+          "name": "日本語専攻学生が沈黙を破る：公開書簡が持続的性暴力を記録",
+          "startDate": "2026-03-23",
+          "endDate": "2026-03-24",
+          "description": "学生会がS教授のストーキング、非合意的接触、成績を人質にした強制を詳述した公開書簡を発表。韓国全国メディアがEU-韓国研究・イノベーションサミット同日に日本逮捕を報道。",
+          "location": {
+            "@type": "Place",
+            "name": "東国大学（ソウル、韓国）"
+          },
+          "url": "https://blog.genderwatchdog.org/dongguk-japanese-studies-professor-sexual-violence-second-department-2026-ja/",
+          "keywords": "学生公開書簡, 持続的ハラスメント, 全国メディア"
+        },
+        {
+          "@type": "Event",
+          "name": "映画教員粛清：EUサミット8日後にBK21認定者・女性研究者が削除",
+          "startDate": "2026-04-01",
+          "description": "ビジュアルピングが唯一のBK21認定保持者・李貞鉉氏を含む2名の女性研究助教の同時削除を捕捉。終身在職権枠は100%男性のまま。",
+          "location": {
+            "@type": "Place",
+            "name": "東国大学（ソウル、韓国）"
+          },
+          "url": "https://blog.genderwatchdog.org/dongguk-faculty-purge-paper-faculty-eu-cleanup-april-2026-ja/",
+          "keywords": "教員粛清, BK21, EUコンプライアンス, ジェンダー平等詐欺"
         }
       ]
     }

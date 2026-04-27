@@ -3,10 +3,10 @@
     "@context": "https://schema.org",
     "@type": "WebPage",
     "name": "東國大學的真相：種族化性暴力時間線",
-    "description": "互動時間線記錄東國大學十年間種族化性暴力事件、制度性失職及公款詐欺指控（2008-2025）。",
+    "description": "互動時間線記錄東國大學十年間種族化性暴力事件、制度性失職及公款詐欺指控（2008-2026）。",
     "url": "https://dongguk.genderwatchdog.org/timeline_zh_tw.html",
     "datePublished": "2025-04-05T12:00:00+09:00",
-    "dateModified": "2025-05-15T12:00:00+09:00",
+    "dateModified": "2026-04-26T12:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "Gender Watchdog"
@@ -14,8 +14,8 @@
     "mainEntity": {
       "@type": "ItemList",
       "name": "東國大學種族化性暴力時間線",
-      "description": "按時間順序記錄東國大學2008-2025年間種族化性暴力事件、制度性失敗和倡議努力",
-      "numberOfItems": 16,
+      "description": "按時間順序記錄東國大學2008-2026年間種族化性暴力事件、制度性失敗和倡議努力",
+      "numberOfItems": 30,
       "itemListOrder": "Ascending",
       "itemListElement": [
         {
@@ -91,8 +91,18 @@
         },
         {
           "@type": "Event",
-          "name": "初始電子郵件聯繫",
-          "startDate": "2025-03-08",
+          "name": "不正投標罪犯就任第11任院長",
+          "startDate": "2023-03-02",
+          "description": "Sidus FNH共同創辦人車承載因公款教育資金投標談判被判有罪6年後，就任東國大學數位影像內容研究所第11任院長。聯合新聞確認。",
+          "location": {
+            "@type": "Place",
+            "name": "東國大學（首爾，韓國）"
+          },
+          "url": "https://blog.genderwatchdog.org/from-indictment-to-deans-office-how-dongguk-university-rewarded-a-criminal-conviction-with-promotions/",
+          "keywords": "制度腐敗, 罪犯晉升, 投標談判"
+        },        {
+          "@type": "Event",
+          "name": "初始電子郵件聯繫",          "startDate": "2025-03-08",
           "endDate": "2025-03-09",
           "description": "關於性暴力問題的初始電子郵件發送給東國大學但未收到回應，開始機構沉默模式。",
           "location": {
@@ -196,6 +206,175 @@
           },
           "url": "https://dongguk.genderwatchdog.org/blog_posts/zh_tw/05152025_zh_tw_horizontal_ieqas.html",
           "keywords": "系統性調查, IEQAS認證, 種族化針對"
+        },
+        {
+          "@type": "Event",
+          "name": "小紅書爆紅：被害者揭露性暴力危機",
+          "startDate": "2025-05-24",
+          "description": "貼文在中國最大社群平台獲得3,256次瀏覽和85則留言。多位被害者證詞浮現。",
+          "location": {
+            "@type": "Place",
+            "name": "東國大學（首爾，韓國）"
+          },
+          "url": "https://blog.genderwatchdog.org/viral-xiaohongshu-post-exposes-dongguk-university-sexual-violence-crisis-victims-break-their-silence/",
+          "keywords": "病毒式傳播, 被害者證詞, 中國, 社群媒體"
+        },
+        {
+          "@type": "Event",
+          "name": "Sidus FNH法律威脅弄巧成拙",
+          "startDate": "2025-05-27",
+          "description": "法律事務所要求24小時內刪除——直接與東國大學自身官方網站檔案矛盾。",
+          "location": {
+            "@type": "Place",
+            "name": "東國大學（首爾，韓國）"
+          },
+          "url": "https://blog.genderwatchdog.org/sidus-legal-threat-backfires-evidence-of-corporate-panic-and-institutional-cover-up-at-dongguk-university-zh-tw/",
+          "keywords": "法律威脅, 企業恐慌, 制度性隱瞞"
+        },
+        {
+          "@type": "Event",
+          "name": "DC Inside大規模審查：20多所大學貼文同時被刪",
+          "startDate": "2025-07-06",
+          "description": "發布LGBT軍事暴力內容後12-15小時內20所以上大學貼文被同時刪除——瀏覽量歸零，錯誤訊息相同。",
+          "location": {
+            "@type": "Place",
+            "name": "韓國"
+          },
+          "url": "https://blog.genderwatchdog.org/korean-government-systematic-censorship-of-lgbt-military-content-evidence-of-institutional-suppression/",
+          "keywords": "審查, LGBT打壓, 政府干預"
+        },
+        {
+          "@type": "Event",
+          "name": "Visual Ping即時捕捉DIC象徵性包容",
+          "startDate": "2025-07-24",
+          "description": "自動化監控追蹤到女教師李數賢檔案被靜悄強化——英文網站上仍然不可見。",
+          "location": {
+            "@type": "Place",
+            "name": "東國大學（首爾，韓國）"
+          },
+          "url": "https://blog.genderwatchdog.org/visual-ping-catches-dongguk-university-in-real-time-tokenism-the-loyal-insider-strategy-exposed/",
+          "keywords": "象徵性包容, 性別平等欺詐, 監控"
+        },
+        {
+          "@type": "Event",
+          "name": "車承載從韓語教師頁消失——幽靈院長策略曝光",
+          "startDate": "2025-09-01",
+          "description": "不正投標罪犯前院長從韓語DIC頁面被靜悄刪除，但英語頁面上仍然保留。",
+          "location": {
+            "@type": "Place",
+            "name": "東國大學（首爾，韓國）"
+          },
+          "url": "https://blog.genderwatchdog.org/from-indictment-to-deans-office-how-dongguk-university-rewarded-a-criminal-conviction-with-promotions/",
+          "keywords": "幽靈院長, 選擇性可見, 制度性欺騙"
+        },
+        {
+          "@type": "Event",
+          "name": "F教授性暴力事件",
+          "startDate": "2025-11-24",
+          "description": "F教授相關新性暴力事件曝光長達4個月的制度性沉默和人權中心失敗。",
+          "location": {
+            "@type": "Place",
+            "name": "東國大學（首爾，韓國）"
+          },
+          "url": "https://blog.genderwatchdog.org/new-sexual-violence-case-at-dongguk-university-professor-f-abuse-and-institutional-silence/",
+          "keywords": "性暴力, 制度性沉默, 人權中心失敗"
+        },
+        {
+          "@type": "Event",
+          "name": "第二所虛假合作：UBC資訊公開確認",
+          "startDate": "2025-12-18",
+          "description": "UBC全年無法提交任何與東國的通訊記錄後，BC省資訊局介入。確認不存在有效機構協議。",
+          "location": {
+            "@type": "Place",
+            "name": "英屬哥倫比亞大學，加拿大"
+          },
+          "url": "https://blog.genderwatchdog.org/global-fraud-alert-3-confirmed-false-partnerships-expose-dongguk-universitys-house-of-cards/",
+          "keywords": "資訊公開確認, 虛假合作, UBC"
+        },
+        {
+          "@type": "Event",
+          "name": "南安普頓大學：第三所虛假合作",
+          "startDate": "2025-12-23",
+          "description": "英國大學未將東國列入官方全球合作夥伴地圖。確認不存在合作協議。",
+          "location": {
+            "@type": "Place",
+            "name": "南安普頓大學，英國"
+          },
+          "url": "https://blog.genderwatchdog.org/global-fraud-alert-3-confirmed-false-partnerships-expose-dongguk-universitys-house-of-cards/",
+          "keywords": "虛假合作, 南安普頓, 資訊公開"
+        },
+        {
+          "@type": "Event",
+          "name": "34個虛假合作夥伴：語意欺詐曝光",
+          "startDate": "2025-12-31",
+          "description": "全面審計命名4種欺詐模式。大洋洲85%失敗率。UCLA、UCSD、曼徹斯特處於確認拒絕機構之列。",
+          "location": {
+            "@type": "Place",
+            "name": "國際"
+          },
+          "url": "https://blog.genderwatchdog.org/semantic-fraud-how-dongguk-universitys-global-network-collapsed-34-fake-partners-exposed-zh-tw/",
+          "keywords": "語意欺詐, 虛假合作, 全球審計"
+        },
+        {
+          "@type": "Event",
+          "name": "恐慌性刪除：刪除UBC、恢復TMU已廢棄名稱",
+          "startDate": "2026-01-19",
+          "description": "東國大學從官方全球合作夥伴頁面靜悄刪去UBC，並將多倫多都會大學恢復為已廢棄名稱「賴爾森」——Visual Ping即時捕獲。",
+          "location": {
+            "@type": "Place",
+            "name": "東國大學（首爾，韓國）"
+          },
+          "url": "https://blog.genderwatchdog.org/panic-scrub-dongguk-deletes-ubc-reverts-to-dead-names-zh-tw/",
+          "keywords": "恐慌性刪除, 證據消滅, Visual Ping"
+        },
+        {
+          "@type": "Event",
+          "name": "日語專業教授在日本因性侵被捕",
+          "startDate": "2026-01-28",
+          "description": "東國大學日語日本學科S教授因非自願猥褻嫌疑被岡山警察逮捕。回國後繼續授課3門。岡山檢察院2月作出不起訴決定。",
+          "location": {
+            "@type": "Place",
+            "name": "岡山，日本 / 東國大學（首爾，韓國）"
+          },
+          "url": "https://blog.genderwatchdog.org/dongguk-japanese-studies-professor-sexual-violence-second-department-2026-zh-tw/",
+          "keywords": "性暴力逮捕, 日本, 教授不當行為, 制度性不作為"
+        },
+        {
+          "@type": "Event",
+          "name": "東國大學提交形式GEP；地平線歐洲韓國11所機構密實無展說",
+          "startDate": "2026-03-18",
+          "description": "GEP工作組在曝34個虛假合作夥伴爆紅的同月成立。4項標準均未達標。",
+          "location": {
+            "@type": "Place",
+            "name": "東國大學（首爾，韓國）"
+          },
+          "url": "https://blog.genderwatchdog.org/gep-theatre-dongguk-chung-ang-horizon-europe-unguarded-gate/",
+          "keywords": "GEP劇場, 地平線歐洲, 性別平等計畫"
+        },
+        {
+          "@type": "Event",
+          "name": "日語專業學生打破沉默：公開信記錄持續性暴力",
+          "startDate": "2026-03-23",
+          "endDate": "2026-03-24",
+          "description": "學生會發表公開信，詳述S教授的跟蹤、非自願接觸及成績要脅。韓國全國媒體就日本被捕與歐盟-韓國研究峰會同日報道。",
+          "location": {
+            "@type": "Place",
+            "name": "東國大學（首爾，韓國）"
+          },
+          "url": "https://blog.genderwatchdog.org/dongguk-japanese-studies-professor-sexual-violence-second-department-2026-zh-tw/",
+          "keywords": "學生公開信, 持續性騷擾, 全國媒體"
+        },
+        {
+          "@type": "Event",
+          "name": "影視學院教師清除：歐盟峰會8天後刪去BK21認證者及女研究員",
+          "startDate": "2026-04-01",
+          "description": "Visual Ping捕獲2名女性助理教授同時刪除，包括唯一BK21認證保持者李數賢。終身定局教員100%為男性。",
+          "location": {
+            "@type": "Place",
+            "name": "東國大學（首爾，韓國）"
+          },
+          "url": "https://blog.genderwatchdog.org/dongguk-faculty-purge-paper-faculty-eu-cleanup-april-2026-zh-tw/",
+          "keywords": "教師清除, BK21, 歐盟合規, 性別平等欺詐"
         }
       ]
     }

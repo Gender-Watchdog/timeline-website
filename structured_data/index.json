@@ -3,10 +3,10 @@
     "@context": "https://schema.org",
     "@type": "WebPage",
     "name": "Dongguk Exposed: Racialized Sexual Violence Timeline",
-    "description": "Interactive timeline documenting Dongguk University's decade of racialized sexual violence cases, institutional negligence, and alleged public funds fraud (2008-2025).",
+    "description": "Interactive timeline documenting Dongguk University's decade of racialized sexual violence cases, institutional negligence, and alleged public funds fraud (2008-2026).",
     "url": "https://dongguk.genderwatchdog.org/index.html",
     "datePublished": "2025-04-05T12:00:00+09:00",
-    "dateModified": "2025-05-15T12:00:00+09:00",
+    "dateModified": "2026-04-26T12:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "Gender Watchdog"
@@ -14,8 +14,8 @@
     "mainEntity": {
       "@type": "ItemList",
       "name": "Dongguk University Racialized Sexual Violence Timeline",
-      "description": "Chronological documentation of racialized sexual violence incidents, institutional failures, and advocacy efforts at Dongguk University from 2008-2025",
-      "numberOfItems": 16,
+      "description": "Chronological documentation of racialized sexual violence incidents, institutional failures, and advocacy efforts at Dongguk University from 2008-2026",
+      "numberOfItems": 30,
       "itemListOrder": "Ascending",
       "itemListElement": [
         {
@@ -196,6 +196,187 @@
           },
           "url": "https://dongguk.genderwatchdog.org/blog_posts/en/05152025_horizontal_ieqas.html",
           "keywords": "systemic investigation, IEQAS certification, racialized targeting"
+        },
+        {
+          "@type": "Event",
+          "name": "Bid-Rigging Convict Installed as 11th Dean",
+          "startDate": "2023-03-02",
+          "description": "Tcha Seung-jai, co-founder of Sidus FNH, installed as 11th Dean of Dongguk's Digital Image Content Graduate School six years after criminal conviction for bid-rigging, confirmed by Yonhap News Agency.",
+          "location": {
+            "@type": "Place",
+            "name": "Dongguk University, Seoul, South Korea"
+          },
+          "url": "https://blog.genderwatchdog.org/from-indictment-to-deans-office-how-dongguk-university-rewarded-a-criminal-conviction-with-promotions/",
+          "keywords": "institutional corruption, criminal promotion, bid-rigging"
+        },
+        {
+          "@type": "Event",
+          "name": "Xiaohongshu Viral: Victims Break Silence on Dongguk Sexual Violence Crisis",
+          "startDate": "2025-05-24",
+          "description": "Post reaches 3,256 views and 85 comments on China's leading social platform. Multiple victim testimonies emerge including improper interview questions, recent sexual harassment of enrolled film students, and self-censorship by actors and students.",
+          "location": {
+            "@type": "Place",
+            "name": "Dongguk University, Seoul, South Korea"
+          },
+          "url": "https://blog.genderwatchdog.org/viral-xiaohongshu-post-exposes-dongguk-university-sexual-violence-crisis-victims-break-their-silence/",
+          "keywords": "viral campaign, victim testimonies, China, social media"
+        },
+        {
+          "@type": "Event",
+          "name": "Sidus FNH Legal Threat Backfires",
+          "startDate": "2025-05-27",
+          "description": "Law Firm Shinwon demands retraction within 24 hours — directly contradicted by Dongguk's own archived website stating 'One of Korea's top film companies, Sidus FNH, is embedded in the film department building.'",
+          "location": {
+            "@type": "Place",
+            "name": "Dongguk University, Seoul, South Korea"
+          },
+          "url": "https://blog.genderwatchdog.org/sidus-legal-threat-backfires-evidence-of-corporate-panic-and-institutional-cover-up-at-dongguk-university/",
+          "keywords": "legal threat, corporate panic, institutional cover-up"
+        },
+        {
+          "@type": "Event",
+          "name": "DC Inside Mass Censorship: 20+ University Posts Simultaneously Purged",
+          "startDate": "2025-07-06",
+          "description": "Within 12-15 hours of posting LGBT military violence evidence across 20+ university galleries, all posts deleted simultaneously with zero views and identical error messages — consistent with coordinated censorship rather than platform moderation.",
+          "location": {
+            "@type": "Place",
+            "name": "South Korea"
+          },
+          "url": "https://blog.genderwatchdog.org/korean-government-systematic-censorship-of-lgbt-military-content-evidence-of-institutional-suppression/",
+          "keywords": "censorship, LGBT suppression, government interference"
+        },
+        {
+          "@type": "Event",
+          "name": "Visual Ping Catches Real-Time Tokenism at DIC",
+          "startDate": "2025-07-24",
+          "description": "Automated Visual Ping monitoring captures silent profile enhancement of female faculty member Lee Jeonghyeon while she remains invisible on English website — 'Loyal Insider' tokenism strategy exposed.",
+          "location": {
+            "@type": "Place",
+            "name": "Dongguk University, Seoul, South Korea"
+          },
+          "url": "https://blog.genderwatchdog.org/visual-ping-catches-dongguk-university-in-real-time-tokenism-the-loyal-insider-strategy-exposed/",
+          "keywords": "tokenism, gender equity fraud, monitoring"
+        },
+        {
+          "@type": "Event",
+          "name": "Tcha Seung-jai Disappears from Korean Faculty Page — Ghost Dean Strategy Exposed",
+          "startDate": "2025-09-01",
+          "description": "Bid-rigging convict and former Dean quietly removed from Korean-language DIC page while remaining on English page as 'Sung-Jai Tcha'. Dual-audience strategy hides controversial figure domestically while maintaining international image.",
+          "location": {
+            "@type": "Place",
+            "name": "Dongguk University, Seoul, South Korea"
+          },
+          "url": "https://blog.genderwatchdog.org/from-indictment-to-deans-office-how-dongguk-university-rewarded-a-criminal-conviction-with-promotions/",
+          "keywords": "ghost dean, selective visibility, institutional deception"
+        },
+        {
+          "@type": "Event",
+          "name": "Professor F Sexual Violence Case",
+          "startDate": "2025-11-24",
+          "description": "New sexual violence scandal involving 'Professor F' exposes 4-month institutional silence and failure of human rights center, mirroring pattern of delayed response to partnership fraud.",
+          "location": {
+            "@type": "Place",
+            "name": "Dongguk University, Seoul, South Korea"
+          },
+          "url": "https://blog.genderwatchdog.org/new-sexual-violence-case-at-dongguk-university-professor-f-abuse-and-institutional-silence/",
+          "keywords": "sexual violence, institutional silence, human rights center failure"
+        },
+        {
+          "@type": "Event",
+          "name": "2nd False Partner: UBC FOI Confirmation",
+          "startDate": "2025-12-18",
+          "description": "BC Office of the Information and Privacy Commissioner intervenes after UBC fails to produce any communications with Dongguk for an entire academic year. FOI confirms no valid institutional agreement exists.",
+          "location": {
+            "@type": "Place",
+            "name": "University of British Columbia, Canada"
+          },
+          "url": "https://blog.genderwatchdog.org/global-fraud-alert-3-confirmed-false-partnerships-expose-dongguk-universitys-house-of-cards/",
+          "keywords": "FOI confirmation, false partnership, UBC"
+        },
+        {
+          "@type": "Event",
+          "name": "University of Southampton: 3rd False Partner",
+          "startDate": "2025-12-23",
+          "description": "UK university not listed on its own official global partners map. Inquiry to International Office forwarded to FOI team confirming no agreement exists.",
+          "location": {
+            "@type": "Place",
+            "name": "University of Southampton, United Kingdom"
+          },
+          "url": "https://blog.genderwatchdog.org/global-fraud-alert-3-confirmed-false-partnerships-expose-dongguk-universitys-house-of-cards/",
+          "keywords": "false partnership, Southampton, FOI"
+        },
+        {
+          "@type": "Event",
+          "name": "34 Fake Partners: Semantic Fraud Exposé",
+          "startDate": "2025-12-31",
+          "description": "Comprehensive audit names 4 fraud patterns: MOU Conflation, Zombie Partners, College Inflation, and outright fabrication. 85% failure rate in Oceania. UCLA, UCSD, Manchester among confirmed rejections.",
+          "location": {
+            "@type": "Place",
+            "name": "International"
+          },
+          "url": "https://blog.genderwatchdog.org/semantic-fraud-how-dongguk-universitys-global-network-collapsed-34-fake-partners-exposed/",
+          "keywords": "semantic fraud, fake partnerships, global audit"
+        },
+        {
+          "@type": "Event",
+          "name": "Panic Scrub: UBC Deleted, TMU Reverted to Dead Name",
+          "startDate": "2026-01-19",
+          "description": "Dongguk silently deletes UBC from official global partners page and reverts Toronto Metropolitan University to its obsolete 2022 name 'Ryerson' — both changes caught in real-time by Visual Ping monitoring.",
+          "location": {
+            "@type": "Place",
+            "name": "Dongguk University, Seoul, South Korea"
+          },
+          "url": "https://blog.genderwatchdog.org/panic-scrub-dongguk-deletes-ubc-reverts-to-dead-names/",
+          "keywords": "panic scrub, evidence deletion, Visual Ping"
+        },
+        {
+          "@type": "Event",
+          "name": "Japanese Studies Professor Arrested in Japan for Sexual Assault",
+          "startDate": "2026-01-28",
+          "description": "Professor S from Dongguk's Japanese Studies department arrested by Okayama police for non-consensual indecent assault. Returns to campus and continues teaching all three courses. Okayama prosecutors decline to indict in February.",
+          "location": {
+            "@type": "Place",
+            "name": "Okayama, Japan / Dongguk University, Seoul, South Korea"
+          },
+          "url": "https://blog.genderwatchdog.org/dongguk-japanese-studies-professor-sexual-violence-second-department-2026/",
+          "keywords": "sexual assault arrest, Japan, professor misconduct, institutional inaction"
+        },
+        {
+          "@type": "Event",
+          "name": "Dongguk Files Hollow GEP; 11 Korean Horizon Europe Institutions Have None",
+          "startDate": "2026-03-18",
+          "description": "GEP Task Force formed same month as 34 fake-partners exposé went viral. Fails on 4 documented grounds: no remediation for recorded events, reactive architecture, no independent oversight, no gender-disaggregated data for arts faculty.",
+          "location": {
+            "@type": "Place",
+            "name": "Dongguk University, Seoul, South Korea"
+          },
+          "url": "https://blog.genderwatchdog.org/gep-theatre-dongguk-chung-ang-horizon-europe-unguarded-gate/",
+          "keywords": "GEP theatre, Horizon Europe, gender equality plan"
+        },
+        {
+          "@type": "Event",
+          "name": "Japanese Studies Students Break Silence: Open Letter Documents Sustained Sexual Violence",
+          "startDate": "2026-03-23",
+          "endDate": "2026-03-24",
+          "description": "Student association publishes open letter detailing voyeurism, non-consensual touching, and grade-backed coercion by Professor S. Korean national media breaks Japan arrest story on same day as EU-Korea Research & Innovation Summit.",
+          "location": {
+            "@type": "Place",
+            "name": "Dongguk University, Seoul, South Korea"
+          },
+          "url": "https://blog.genderwatchdog.org/dongguk-japanese-studies-professor-sexual-violence-second-department-2026/",
+          "keywords": "student open letter, sustained harassment, national media"
+        },
+        {
+          "@type": "Event",
+          "name": "Film Faculty Purge: BK21 Credential & Female Researchers Removed Eight Days After EU Summit",
+          "startDate": "2026-04-01",
+          "description": "Visual Ping captures simultaneous removal of 2 female research professors including sole BK21 credential holder Lee Jeonghyeon and Choi Eunjin. Tenured tier remains 100% male. All institutional contact details removed from senior film director professor profiles.",
+          "location": {
+            "@type": "Place",
+            "name": "Dongguk University, Seoul, South Korea"
+          },
+          "url": "https://blog.genderwatchdog.org/dongguk-faculty-purge-paper-faculty-eu-cleanup-april-2026/",
+          "keywords": "faculty purge, BK21, EU compliance, gender equity fraud"
         }
       ]
     }
@@ -227,7 +408,7 @@
         "name": "What does this timeline document?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "This interactive timeline documents Dongguk University's decade of racialized sexual violence cases, institutional negligence, and alleged public funds fraud from 2008-2025. Each timeline event links to detailed documentation with evidence of systematic targeting of foreign women, particularly from China and Southeast Asia, and institutional failures in response."
+          "text": "This interactive timeline documents Dongguk University's decade of racialized sexual violence cases, institutional negligence, and alleged public funds fraud from 2008-2026. Each timeline event links to detailed documentation with evidence of systematic targeting of foreign women, particularly from China and Southeast Asia, and institutional failures in response."
         }
       },
       {

@@ -3,10 +3,10 @@
     "@context": "https://schema.org",
     "@type": "WebPage",
     "name": "동국대학교의 진실: 인종화된 성폭력 타임라인",
-    "description": "동국대학교의 10년간 인종화된 성폭력 사건, 제도적 방치, 공적 자금 사기 의혹을 기록하는 인터랙티브 타임라인(2008-2025).",
+    "description": "동국대학교의 10년간 인종화된 성폭력 사건, 제도적 방치, 공적 자금 사기 의혹을 기록하는 인터랙티브 타임라인(2008-2026).",
     "url": "https://dongguk.genderwatchdog.org/timeline_ko.html",
     "datePublished": "2025-04-05T12:00:00+09:00",
-    "dateModified": "2025-05-15T12:00:00+09:00",
+    "dateModified": "2026-04-26T12:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "Gender Watchdog"
@@ -15,7 +15,7 @@
       "@type": "ItemList",
       "name": "동국대학교 인종화된 성폭력 타임라인",
       "description": "2008년부터 2025년까지 동국대학교의 인종화된 성폭력 사건, 제도적 실패, 옹호 활동의 연대기적 기록",
-      "numberOfItems": 16,
+      "numberOfItems": 30,
       "itemListOrder": "Ascending",
       "itemListElement": [
         {
@@ -196,6 +196,187 @@
           },
           "url": "https://dongguk.genderwatchdog.org/blog_posts/ko/05152025_ko_horizontal_ieqas.html",
           "keywords": "체계적 조사, IEQAS 인증, 인종화된 타겟팅"
+        },
+        {
+          "@type": "Event",
+          "name": "부정입찰 유죄 판결자가 제11대 학장으로 취임",
+          "startDate": "2023-03-02",
+          "description": "Sidus FNH 공동 창업자 차승재가 공공 교육 자금 입찰 담합으로 유죄 판결 6년 후 동국대 디지털영상콘텐츠학과 제11대 학장으로 취임. 연합뉴스 확인.",
+          "location": {
+            "@type": "Place",
+            "name": "동국대학교, 서울, 대한민국"
+          },
+          "url": "https://blog.genderwatchdog.org/from-indictment-to-deans-office-how-dongguk-university-rewarded-a-criminal-conviction-with-promotions/",
+          "keywords": "제도적 부패, 범죄자 승진, 입찰 담합"
+        },
+        {
+          "@type": "Event",
+          "name": "샤오홍수 바이럴: 피해자들이 동국대 성폭력 위기를 폭로",
+          "startDate": "2025-05-24",
+          "description": "중국 최대 소셜 플랫폼에서 게시물이 3,256회 조회, 85개 댓글로 바이럴. 여러 피해자 증언 등장.",
+          "location": {
+            "@type": "Place",
+            "name": "동국대학교, 서울, 대한민국"
+          },
+          "url": "https://blog.genderwatchdog.org/viral-xiaohongshu-post-exposes-dongguk-university-sexual-violence-crisis-victims-break-their-silence/",
+          "keywords": "바이럴 캠페인, 피해자 증언, 중국, 소셜 미디어"
+        },
+        {
+          "@type": "Event",
+          "name": "Sidus FNH 법적 위협 역효과",
+          "startDate": "2025-05-27",
+          "description": "신원 법무법인이 24시간 내 철회 요구—동국대 자체 보관 웹사이트와 직접 모순.",
+          "location": {
+            "@type": "Place",
+            "name": "동국대학교, 서울, 대한민국"
+          },
+          "url": "https://blog.genderwatchdog.org/sidus-legal-threat-backfires-evidence-of-corporate-panic-and-institutional-cover-up-at-dongguk-university/",
+          "keywords": "법적 위협, 기업 패닉, 제도적 은폐"
+        },
+        {
+          "@type": "Event",
+          "name": "DC 인사이드 대규모 검열: 20개 이상 대학 게시물 동시 삭제",
+          "startDate": "2025-07-06",
+          "description": "LGBT 군사 폭력 콘텐츠 게시 후 12~15시간 내에 20개 이상 대학 갤러리의 모든 게시물이 동시 삭제—조회수 0, 동일한 오류 메시지.",
+          "location": {
+            "@type": "Place",
+            "name": "대한민국"
+          },
+          "url": "https://blog.genderwatchdog.org/korean-government-systematic-censorship-of-lgbt-military-content-evidence-of-institutional-suppression/",
+          "keywords": "검열, LGBT 탄압, 정부 개입"
+        },
+        {
+          "@type": "Event",
+          "name": "비주얼 핑이 DIC의 실시간 토크니즘 포착",
+          "startDate": "2025-07-24",
+          "description": "자동화된 비주얼 핑 모니터링이 여성 교원 이정현의 조용한 프로필 강화를 포착—영문 웹사이트에서는 여전히 비가시적.",
+          "location": {
+            "@type": "Place",
+            "name": "동국대학교, 서울, 대한민국"
+          },
+          "url": "https://blog.genderwatchdog.org/visual-ping-catches-dongguk-university-in-real-time-tokenism-the-loyal-insider-strategy-exposed/",
+          "keywords": "토크니즘, 젠더 평등 사기, 모니터링"
+        },
+        {
+          "@type": "Event",
+          "name": "차승재가 한국어 교원 페이지에서 사라짐—유령 학장 전략 노출",
+          "startDate": "2025-09-01",
+          "description": "부정입찰 유죄 전 학장이 한국어 DIC 페이지에서 조용히 삭제되는 반면 영문 페이지에는 유지.",
+          "location": {
+            "@type": "Place",
+            "name": "동국대학교, 서울, 대한민국"
+          },
+          "url": "https://blog.genderwatchdog.org/from-indictment-to-deans-office-how-dongguk-university-rewarded-a-criminal-conviction-with-promotions/",
+          "keywords": "유령 학장, 선택적 가시성, 제도적 기만"
+        },
+        {
+          "@type": "Event",
+          "name": "F교수 성폭력 사건",
+          "startDate": "2025-11-24",
+          "description": "F교수 관련 새 성폭력 스캔들이 4개월 제도적 침묵과 인권센터 실패를 노출.",
+          "location": {
+            "@type": "Place",
+            "name": "동국대학교, 서울, 대한민국"
+          },
+          "url": "https://blog.genderwatchdog.org/new-sexual-violence-case-at-dongguk-university-professor-f-abuse-and-institutional-silence/",
+          "keywords": "성폭력, 제도적 침묵, 인권센터 실패"
+        },
+        {
+          "@type": "Event",
+          "name": "두 번째 허위 파트너: UBC 정보공개 확인",
+          "startDate": "2025-12-18",
+          "description": "UBC가 학년 내내 동국대와의 통신을 제출하지 못한 후 BC 정보 및 프라이버시 위원회 개입. 유효한 협약 없음 확인.",
+          "location": {
+            "@type": "Place",
+            "name": "브리티시컬럼비아 대학교, 캐나다"
+          },
+          "url": "https://blog.genderwatchdog.org/global-fraud-alert-3-confirmed-false-partnerships-expose-dongguk-universitys-house-of-cards/",
+          "keywords": "정보공개 확인, 허위 파트너, UBC"
+        },
+        {
+          "@type": "Event",
+          "name": "사우샘프턴 대학교: 세 번째 허위 파트너",
+          "startDate": "2025-12-23",
+          "description": "영국 대학이 공식 글로벌 파트너 지도에 동국대를 게재하지 않음. 협약 없음 확인.",
+          "location": {
+            "@type": "Place",
+            "name": "사우샘프턴 대학교, 영국"
+          },
+          "url": "https://blog.genderwatchdog.org/global-fraud-alert-3-confirmed-false-partnerships-expose-dongguk-universitys-house-of-cards/",
+          "keywords": "허위 파트너, 사우샘프턴, 정보공개"
+        },
+        {
+          "@type": "Event",
+          "name": "34개 허위 파트너: 의미론적 사기 폭로",
+          "startDate": "2025-12-31",
+          "description": "전면 감사가 4가지 사기 패턴을 명명. 오세아니아 85% 실패율. UCLA, UCSD, 맨체스터 확인 거부 기관에 포함.",
+          "location": {
+            "@type": "Place",
+            "name": "국제"
+          },
+          "url": "https://blog.genderwatchdog.org/semantic-fraud-how-dongguk-universitys-global-network-collapsed-34-fake-partners-exposed/",
+          "keywords": "의미론적 사기, 허위 파트너, 글로벌 감사"
+        },
+        {
+          "@type": "Event",
+          "name": "패닉 삭제: UBC 삭제, TMU 폐기된 이름으로 복원",
+          "startDate": "2026-01-19",
+          "description": "동국대가 공식 글로벌 파트너 페이지에서 UBC를 삭제하고 토론토 메트로폴리탄 대학교를 폐기된 이름 '라이어슨'으로 복원—비주얼 핑으로 실시간 포착.",
+          "location": {
+            "@type": "Place",
+            "name": "동국대학교, 서울, 대한민국"
+          },
+          "url": "https://blog.genderwatchdog.org/panic-scrub-dongguk-deletes-ubc-reverts-to-dead-names/",
+          "keywords": "패닉 삭제, 증거 은폐, 비주얼 핑"
+        },
+        {
+          "@type": "Event",
+          "name": "일본어 전공 교수가 일본에서 성범죄로 체포",
+          "startDate": "2026-01-28",
+          "description": "동국대 일본어일본학과 S교수가 오카야마 경찰에 비동의 추행 혐의로 체포. 귀국 후 3과목 강의 계속. 오카야마 검찰 2월 불기소.",
+          "location": {
+            "@type": "Place",
+            "name": "오카야마, 일본 / 동국대학교, 서울, 대한민국"
+          },
+          "url": "https://blog.genderwatchdog.org/dongguk-japanese-studies-professor-sexual-violence-second-department-2026-ko/",
+          "keywords": "성범죄 체포, 일본, 교수 비위, 제도적 무행위"
+        },
+        {
+          "@type": "Event",
+          "name": "동국대 형식적 성평등 계획 제출; 한국 호라이즌 유럽 11개 기관은 전무",
+          "startDate": "2026-03-18",
+          "description": "GEP 태스크포스가 34개 허위 파트너 폭로가 바이럴된 같은 달 결성. 4가지 기준 미달.",
+          "location": {
+            "@type": "Place",
+            "name": "동국대학교, 서울, 대한민국"
+          },
+          "url": "https://blog.genderwatchdog.org/gep-theatre-dongguk-chung-ang-horizon-europe-unguarded-gate/",
+          "keywords": "GEP 극장, 호라이즌 유럽, 성평등 계획"
+        },
+        {
+          "@type": "Event",
+          "name": "일본어 전공 학생들 침묵 깨기: 공개 서한이 지속적 성폭력 기록",
+          "startDate": "2026-03-23",
+          "endDate": "2026-03-24",
+          "description": "학생회가 S교수의 스토킹, 비동의 접촉, 성적 강요를 상세히 기록한 공개 서한 발표. 한국 전국 언론이 EU-한국 연구혁신 서밋 당일 일본 체포를 보도.",
+          "location": {
+            "@type": "Place",
+            "name": "동국대학교, 서울, 대한민국"
+          },
+          "url": "https://blog.genderwatchdog.org/dongguk-japanese-studies-professor-sexual-violence-second-department-2026-ko/",
+          "keywords": "학생 공개 서한, 지속적 괴롭힘, 전국 언론"
+        },
+        {
+          "@type": "Event",
+          "name": "영화과 교원 숙청: EU 서밋 8일 후 BK21 인증자 및 여성 연구자 삭제",
+          "startDate": "2026-04-01",
+          "description": "비주얼 핑이 유일한 BK21 인증 보유자 이정현을 포함한 2명의 여성 연구조교수 동시 삭제 포착. 정규직 교원은 100% 남성.",
+          "location": {
+            "@type": "Place",
+            "name": "동국대학교, 서울, 대한민국"
+          },
+          "url": "https://blog.genderwatchdog.org/dongguk-faculty-purge-paper-faculty-eu-cleanup-april-2026-ko/",
+          "keywords": "교원 숙청, BK21, EU 컴플라이언스, 젠더 평등 사기"
         }
       ]
     }

@@ -3,10 +3,10 @@
     "@context": "https://schema.org",
     "@type": "WebPage",
     "name": "Dongguk Bị Phơi Bày: Dòng Thời Gian Bạo Lực Tình Dục Phân Biệt Chủng Tộc",
-    "description": "Dòng thời gian tương tác ghi lại một thập kỷ các vụ bạo lực tình dục phân biệt chủng tộc, sự sơ suất của thể chế và cáo buộc gian lận quỹ công tại Đại học Dongguk (2008-2025).",
+    "description": "Dòng thời gian tương tác ghi lại một thập kỷ các vụ bạo lực tình dục phân biệt chủng tộc, sự sơ suất của thể chế và cáo buộc gian lận quỹ công tại Đại học Dongguk (2008-2026).",
     "url": "https://dongguk.genderwatchdog.org/timeline_vi.html",
     "datePublished": "2025-04-05T12:00:00+09:00",
-    "dateModified": "2025-12-24T12:00:00+09:00",
+    "dateModified": "2026-04-26T12:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "Gender Watchdog"
@@ -14,8 +14,8 @@
     "mainEntity": {
       "@type": "ItemList",
       "name": "Dòng Thời Gian Bạo Lực Tình Dục Phân Biệt Chủng Tộc Đại học Dongguk",
-      "description": "Tài liệu theo trình tự thời gian về các vụ bạo lực tình dục phân biệt chủng tộc, những thất bại của thể chế và nỗ lực vận động tại Đại học Dongguk từ 2008-2025",
-      "numberOfItems": 19,
+      "description": "Tài liệu theo trình tự thời gian về các vụ bạo lực tình dục phân biệt chủng tộc, những thất bại của thể chế và nỗ lực vận động tại Đại học Dongguk từ 2008-2026",
+      "numberOfItems": 30,
       "itemListOrder": "Ascending",
       "itemListElement": [
         {
@@ -88,6 +88,18 @@
           },
           "url": "https://dongguk.genderwatchdog.org/blog_posts/en/kwdi_infographics.html",
           "keywords": "tài liệu nghiên cứu, thống kê bạo lực tình dục"
+        },
+        {
+          "@type": "Event",
+          "name": "Kẻ Phạm Tội Gian Lận Đấu Thầu Trở Thành Trưởng Khoa Thứ 11",
+          "startDate": "2023-03-02",
+          "description": "Tcha Seung-jai, đồng sáng lập Sidus FNH, bị kết tội gian lận đấu thầu quỹ công năm 2017, được bổ nhiệm làm Trưởng Khoa Cao học Nội dung Số & Truyền thông thứ 11 tại Dongguk sáu năm sau — được Yonhap xác nhận.",
+          "location": {
+            "@type": "Place",
+            "name": "Đại học Dongguk, Seoul, Hàn Quốc"
+          },
+          "url": "https://blog.genderwatchdog.org/from-indictment-to-deans-office-how-dongguk-university-rewarded-a-criminal-conviction-with-promotions/",
+          "keywords": "tham nhũng thể chế, tội phạm thăng tiến, gian lận đấu thầu"
         },
         {
           "@type": "Event",
@@ -199,6 +211,66 @@
         },
         {
           "@type": "Event",
+          "name": "Xiaohongshu Lan Truyền: Nạn Nhân Lên Tiếng về Khủng Hoảng Bạo Lực Tình Dục",
+          "startDate": "2025-05-24",
+          "description": "Bài đăng trên mạng xã hội lớn nhất Trung Quốc đạt 3.256 lượt xem và 85 bình luận. Nhiều lời chứng của nạn nhân xuất hiện.",
+          "location": {
+            "@type": "Place",
+            "name": "Đại học Dongguk, Seoul, Hàn Quốc"
+          },
+          "url": "https://blog.genderwatchdog.org/viral-xiaohongshu-post-exposes-dongguk-university-sexual-violence-crisis-victims-break-their-silence/",
+          "keywords": "lan truyền mạng xã hội, lời chứng nạn nhân, Trung Quốc"
+        },
+        {
+          "@type": "Event",
+          "name": "Mối Đe Dọa Pháp Lý Sidus FNH Phản Tác Dụng",
+          "startDate": "2025-05-27",
+          "description": "Công ty luật yêu cầu xóa nội dung trong 24 giờ — mâu thuẫn trực tiếp với lưu trữ website chính thức của Dongguk.",
+          "location": {
+            "@type": "Place",
+            "name": "Đại học Dongguk, Seoul, Hàn Quốc"
+          },
+          "url": "https://blog.genderwatchdog.org/sidus-legal-threat-backfires-evidence-of-corporate-panic-and-institutional-cover-up-at-dongguk-university/",
+          "keywords": "đe dọa pháp lý, hoảng loạn doanh nghiệp, che giấu thể chế"
+        },
+        {
+          "@type": "Event",
+          "name": "Kiểm Duyệt Hàng Loạt DC Inside: Hơn 20 Bài Viết Đại Học Bị Xóa Đồng Thời",
+          "startDate": "2025-07-06",
+          "description": "Hơn 20 bài viết trên gallery đại học DC Inside bị xóa đồng thời trong 12–15 giờ sau khi đăng bằng chứng về bạo lực tình dục có hệ thống với người LGBT trong quân đội.",
+          "location": {
+            "@type": "Place",
+            "name": "Hàn Quốc"
+          },
+          "url": "https://blog.genderwatchdog.org/korean-government-systematic-censorship-of-lgbt-military-content-evidence-of-institutional-suppression/",
+          "keywords": "kiểm duyệt, đàn áp LGBT, can thiệp chính phủ"
+        },
+        {
+          "@type": "Event",
+          "name": "Visual Ping Phát Hiện Hành Vi Đối Đãi Hình Thức Theo Thời Gian Thực tại DIC",
+          "startDate": "2025-07-24",
+          "description": "Hệ thống giám sát tự động phát hiện việc âm thầm củng cố hồ sơ của giáo sư Lee Jung-hyeon — vẫn không hiển thị trên trang tiếng Anh.",
+          "location": {
+            "@type": "Place",
+            "name": "Đại học Dongguk, Seoul, Hàn Quốc"
+          },
+          "url": "https://blog.genderwatchdog.org/visual-ping-catches-dongguk-university-in-real-time-tokenism-the-loyal-insider-strategy-exposed/",
+          "keywords": "đối đãi hình thức, gian lận bình đẳng giới, giám sát"
+        },
+        {
+          "@type": "Event",
+          "name": "Tcha Seung-jai Biến Mất Khỏi Trang Giảng Viên Tiếng Hàn",
+          "startDate": "2025-09-01",
+          "description": "Kẻ phạm tội gian lận đấu thầu và cựu trưởng khoa bị âm thầm xóa khỏi trang DIC tiếng Hàn trong khi vẫn hiển thị trên trang tiếng Anh.",
+          "location": {
+            "@type": "Place",
+            "name": "Đại học Dongguk, Seoul, Hàn Quốc"
+          },
+          "url": "https://blog.genderwatchdog.org/from-indictment-to-deans-office-how-dongguk-university-rewarded-a-criminal-conviction-with-promotions/",
+          "keywords": "trưởng khoa ma, hiển thị có chọn lọc, gian lận thể chế"
+        },
+        {
+          "@type": "Event",
           "name": "Vụ Bạo lực Tình dục Giáo sư F",
           "startDate": "2025-11-24",
           "description": "Một bê bối bạo lực tình dục mới tại Đại học Dongguk liên quan đến 'Giáo sư F' phơi bày sự im lặng của thể chế trong 4 tháng và sự thất bại của Trung tâm Nhân quyền.",
@@ -232,6 +304,79 @@
           },
           "url": "https://blog.genderwatchdog.org/global-fraud-alert-3-confirmed-false-partnerships-expose-dongguk-universitys-house-of-cards/",
           "keywords": "đối tác giả mạo, Southampton, gian lận"
+        },
+        {
+          "@type": "Event",
+          "name": "34 Đối Tác Giả Mạo: Phơi Bày Gian Lận Ngữ Nghĩa",
+          "startDate": "2025-12-31",
+          "description": "Cuộc kiểm tra toàn diện đặt tên cho 4 mô hình gian lận. Tỷ lệ thất bại 85% từ Oceania. UCLA, UCSD, Manchester nằm trong số các tổ chức xác nhận từ chối.",
+          "location": {
+            "@type": "Place",
+            "name": "Quốc tế"
+          },
+          "url": "https://blog.genderwatchdog.org/semantic-fraud-how-dongguk-universitys-global-network-collapsed-34-fake-partners-exposed/",
+          "keywords": "gian lận ngữ nghĩa, đối tác giả mạo, kiểm tra toàn cầu"
+        },
+        {
+          "@type": "Event",
+          "name": "Hoảng Loạn Xóa Dữ Liệu: Xóa UBC, Đổi Lại Tên Cũ TMU",
+          "startDate": "2026-01-19",
+          "description": "Dongguk âm thầm xóa UBC khỏi trang Đối Tác Toàn Cầu chính thức và đổi Đại học Metropolitan Toronto sang tên đã hủy bỏ — Visual Ping phát hiện theo thời gian thực.",
+          "location": {
+            "@type": "Place",
+            "name": "Đại học Dongguk, Seoul, Hàn Quốc"
+          },
+          "url": "https://blog.genderwatchdog.org/panic-scrub-dongguk-deletes-ubc-reverts-to-dead-names-vi/",
+          "keywords": "xóa dữ liệu hoảng loạn, che giấu bằng chứng, Visual Ping"
+        },
+        {
+          "@type": "Event",
+          "name": "Giáo Sư Tiếng Nhật Bị Bắt tại Nhật Bản vì Tội Tình Dục",
+          "startDate": "2026-01-28",
+          "description": "Giáo sư S của Khoa Tiếng Nhật-Nhật Bản học Dongguk bị cảnh sát Okayama bắt giữ vì tội quấy rối không đồng thuận. Tiếp tục dạy 3 lớp sau khi về nước. Viện kiểm sát Okayama không truy tố vào tháng 2.",
+          "location": {
+            "@type": "Place",
+            "name": "Okayama, Nhật Bản / Đại học Dongguk, Seoul, Hàn Quốc"
+          },
+          "url": "https://blog.genderwatchdog.org/dongguk-japanese-studies-professor-sexual-violence-second-department-2026-vi/",
+          "keywords": "bắt giữ vì tội tình dục, Nhật Bản, giáo sư sai phạm, không hành động thể chế"
+        },
+        {
+          "@type": "Event",
+          "name": "Dongguk Nộp GEP Hình Thức; 11 Tổ Chức Hàn Quốc trong Horizon Europe Không Có Gì",
+          "startDate": "2026-03-18",
+          "description": "Nhóm nhiệm vụ GEP được thành lập cùng tháng phơi bày 34 đối tác giả mạo. Thất bại theo 4 tiêu chí không có biện pháp khắc phục các sự cố đã ghi lại.",
+          "location": {
+            "@type": "Place",
+            "name": "Đại học Dongguk, Seoul, Hàn Quốc"
+          },
+          "url": "https://blog.genderwatchdog.org/gep-theatre-dongguk-chung-ang-horizon-europe-unguarded-gate/",
+          "keywords": "GEP hình thức, Horizon Europe, kế hoạch bình đẳng giới"
+        },
+        {
+          "@type": "Event",
+          "name": "Sinh Viên Tiếng Nhật Phá Vỡ Im Lặng: Thư Ngỏ Ghi Lại Bạo Lực Tình Dục Liên Tục",
+          "startDate": "2026-03-23",
+          "endDate": "2026-03-24",
+          "description": "Hội sinh viên công bố thư ngỏ ghi lại hành vi theo dõi, tiếp xúc không đồng thuận và ép buộc liên quan đến điểm số của giáo sư S. Truyền thông toàn quốc đưa tin về vụ bắt giữ tại Nhật Bản cùng ngày diễn ra Hội nghị Nghiên cứu & Đổi mới EU-Hàn Quốc.",
+          "location": {
+            "@type": "Place",
+            "name": "Đại học Dongguk, Seoul, Hàn Quốc"
+          },
+          "url": "https://blog.genderwatchdog.org/dongguk-japanese-studies-professor-sexual-violence-second-department-2026-vi/",
+          "keywords": "thư ngỏ sinh viên, quấy rối liên tục, truyền thông toàn quốc"
+        },
+        {
+          "@type": "Event",
+          "name": "Thanh Lọc Giảng Viên Khoa Điện Ảnh: Xóa Người Được Chứng Nhận BK21 và Nhà Nghiên Cứu Nữ 8 Ngày Sau Hội Nghị EU",
+          "startDate": "2026-04-01",
+          "description": "Visual Ping phát hiện việc xóa đồng thời 2 nữ trợ lý nghiên cứu bao gồm Lee Jung-hyeon, người duy nhất giữ chứng nhận BK21. Giảng viên biên chế 100% nam.",
+          "location": {
+            "@type": "Place",
+            "name": "Đại học Dongguk, Seoul, Hàn Quốc"
+          },
+          "url": "https://blog.genderwatchdog.org/dongguk-faculty-purge-paper-faculty-eu-cleanup-april-2026/",
+          "keywords": "thanh lọc giảng viên, BK21, tuân thủ EU, gian lận bình đẳng giới"
         }
       ]
     }
