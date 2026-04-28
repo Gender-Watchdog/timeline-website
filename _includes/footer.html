@@ -16,6 +16,11 @@
       <p class="mt-2 mb-0" style="font-size:0.9rem;">
         This site uses privacy-focused <a href="https://usefathom.com/ref/UKSUATNV" class="text-light" style="text-decoration:underline;" target="_blank">Fathom Analytics</a> which is GDPR compliant and doesn't track personal data.
       </p>
+      {% if page.lang and page.lang != 'en' %}{% assign tl = site.data.ui_text[page.lang] %}{% if tl.translation_note %}
+      <p class="mt-2 mb-0 text-light" style="font-size:0.85rem;">
+        ⚠️ {{ tl.translation_note }} <a href="{{ site.baseurl }}/index.html" class="text-light" style="text-decoration:underline;">English</a>
+      </p>
+      {% endif %}{% endif %}
       
       <!-- Legal Hardening Disclaimers -->
       <hr class="border-light my-3 opacity-25">
